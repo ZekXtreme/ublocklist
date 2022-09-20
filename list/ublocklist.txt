@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2022-09-19 12:37:14
-# Total count: 13470
+# Version: 2022-09-20 01:50:36
+# Total count: 13472
 
 ! C&J Marketing
 ! Content Farm
@@ -9882,6 +9882,7 @@
 *://coderoad.ru/*
 *://codertw.com/*
 *://codesti.com/*
+*://codeutility.org/*
 *://codingdict.com/*
 *://codingnote.cc/*
 *://codingwithmanny.medium.com/*
@@ -10951,6 +10952,7 @@
 *://techacademy.jp/*
 *://techdocs.broadcom.com/*
 *://techhelpnotes.com/*
+*://techinplanet.com/*
 *://techroomage.com/*
 *://techzhiggy.com/*
 *://teddit.ggc-project.de/*
