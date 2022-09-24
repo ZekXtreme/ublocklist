@@ -1,14 +1,14 @@
-#[ublocklist]
-# Title: ublocklist combined list
-# Homepage: https://github.com/zekxtreme/ublocklist
-# Description: My personal filters of ublocklist
-# Version: 2022-09-24 01:14:27
-# Total count: 13478
 
 ! C&J Marketing
 ! Content Farm
 ! Feeb
 ! Junk
+# Description: My personal filters of ublocklist
+# Homepage: https://github.com/zekxtreme/ublocklist
+# Title: ublocklist combined list
+# Total count: 13478
+# Version: 2022-09-24 02:44:43
+#[ublocklist]
 *//www.generacodice.com/*
 *://*.000.org.cn/*
 *://*.001553.cn/*
@@ -13440,7 +13440,6 @@
 /.*\/so\.php/
 /.*\:\/\/www\..*?\.com\/showinfo\-\d+-\d+-\d+\.html/
 /.123.\../
-/.\.(tk|photo|page|science|ninja|monster|st|cricket|store|website|help|bg|party|work|link|camera|computer|click|cc|club|pw|info|rocks|review|faith|date|win|racing|site|online|news|life|design|nyc|guru|photography|global|today|solutions|media|world|biz|gq|rest|ga|casa|buzz|cam|ml|fit|ly|it|vip|php|pl|ru|app|name|tr|asia|surf|top|cf|tw|uz|am|krd|is|cz|pt|pk|cl|il|in|hu|hr|si|ee|bid|vn|kw|ro|mx|me|market|nu|how|red|guide|mobi|cafe|tn|xxx|icu|fun|pro|desi|id|live|one|ir|forsale)\/(.*)/
 /.addiction.\../
 /.block.\../
 /.clinic.\../
@@ -13460,6 +13459,11 @@
 /.stock.\../
 /.subtitle.\../
 /.torrent.\../
+/.\.(tk|photo|page|science|ninja|monster|st|cricket|store|website|help|bg|party|work|link|camera|computer|click|cc|club|pw|info|rocks|review|faith|date|win|racing|site|online|news|life|design|nyc|guru|photography|global|today|solutions|media|world|biz|gq|rest|ga|casa|buzz|cam|ml|fit|ly|it|vip|php|pl|ru|app|name|tr|asia|surf|top|cf|tw|uz|am|krd|is|cz|pt|pk|cl|il|in|hu|hr|si|ee|bid|vn|kw|ro|mx|me|market|nu|how|red|guide|mobi|cafe|tn|xxx|icu|fun|pro|desi|id|live|one|ir|forsale)\/(.*)/
+/epochtimes\.+/
+/falundafa\.+/
+/it-swarm.*/
+/m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 /\w+\.codeflow\.site/
 /\w+\.it-swarm-\w+\.\w+/
 /\w+\.it-swarm\.\w+/
@@ -13467,18 +13471,14 @@
 /\w+\.proxypy\.org/
 /^(m|mobile|it|es|ja|fr|pl|at|ru)\.\w./
 /^https?\:\/\/.*?\/list\?q=[a-zA-Z%0-9]*$/
-/epochtimes\.+/
-/falundafa\.+/
-/it-swarm.*/
-/m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 @*://*.tspweb.com/*
 title/.* - 小.(百科 | 知识) 网$/404: Not Found/.pinterest\.*/
+title/.*q微同号.*/
 title/.*Q微同号/
 title/.*\s-\s.*知识网/
 title/.*\s-\s小.*百科网/
 title/.*_一键访问国外网站/
 title/.*_点击一次就可以出国/
-title/.*q微同号.*/
 title/.*【一键访问国外网站】/
 title/.*【点击一次就可以出国】/
 title/小.(百科|知识)网/
