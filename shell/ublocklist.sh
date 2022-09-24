@@ -35,7 +35,8 @@ echo "# Version: `date +"%Y-%m-%d %H:%M:%S"`" >> tpdate.txt
 echo "# Total count: $num" >> tpdate.txt
 cat title.dd tpdate.txt tmmp.txt > final.txt
 
-mv final.txt ../ublocklist.txt
+sort -f -u -o final.txt ../ublocklist.txt
+# mv final.txt ../ublocklist.txt
 rm *.txt
 cd ../
 exit
