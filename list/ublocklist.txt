@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2022-09-24 02:46:08
-# Total count: 13478
+# Version: 2022-09-25 01:07:56
+# Total count: 13487
 
 ! C&J Marketing
 ! Content Farm
@@ -466,7 +466,6 @@
 *://*.2a2d75.dcmir4f.com/*
 *://*.2a76grb.cn/*
 *://*.2ccumg6.cn/*
-*://*.2ch.sc/*
 *://*.2cute2care.buzz/*
 *://*.2dgyg2g.cn/*
 *://*.2fpzaix.cn/*
@@ -876,8 +875,6 @@
 *://*.5azy.com/*
 *://*.5b4d4t3.cn/*
 *://*.5board6.com/*
-*://*.5ch.net/*
-*://*.5chb.net/*
 *://*.5cl7quh.cn/*
 *://*.5d131ed.cn/*
 *://*.5d2dyde.cn/*
@@ -6124,7 +6121,6 @@
 *://*.phxgmy.com/*
 *://*.pianshen.com/*
 *://*.pic01nm.cn/*
-*://*.pic2.icu/*
 *://*.picbr.com/*
 *://*.picciutofamily.buzz/*
 *://*.picclick.co.uk/*
@@ -6766,7 +6762,6 @@
 *://*.sab-riga.buzz/*
 *://*.sad21.cn/*
 *://*.sadyr.party/*
-*://*.safehavenpetrescue.org/*
 *://*.safetydetectives.com/*
 *://*.safetyks.com/*
 *://*.safx.cc/*
@@ -7815,7 +7810,6 @@
 *://*.uk.com/*
 *://*.ukbu5pa.cn/*
 *://*.ukp76oa.cn/*
-*://*.ula.cc/*
 *://*.ulkhmiim.cn/*
 *://*.ultraiso.net/*
 *://*.umd5eld.cn/*
@@ -9878,6 +9872,7 @@
 *://codeleading.com/*
 *://coder-question.com/*
 *://coder-solution-es.com/*
+*://coder.gay/*
 *://coderedirect.com/*
 *://coderoad.ru/*
 *://codertw.com/*
@@ -9951,6 +9946,7 @@
 *://developercommunity.visualstudio.com/*
 *://developers.youzanyun.com/*
 *://developpaper.com/*
+*://devfixes.com/*
 *://dfuw.redandgold.de/*
 *://dgdkgs2.com/*
 *://dguun.com/*
@@ -10041,6 +10037,7 @@
 *://esm.esspoc.cn/*
 *://essaymin.com/*
 *://esse-online.jp/*
+*://etsoutdoors.com/*
 *://eu.fwbdl.com/*
 *://evelyn4ever.top/*
 *://events.laravel-dojo.com/*
@@ -10074,6 +10071,7 @@
 *://flyzyblog.net/*
 *://fmex.women-selfdefense-regensburg.de/*
 *://fmhelp.filemaker.com/*
+*://fmihm.org/*
 *://fogsbane.dev/*
 *://fonnambar.info/*
 *://fooobar.com/*
@@ -10273,7 +10271,6 @@
 *://jakdy.com/*
 *://jamyi.com/*
 *://janche.github.io/*
-*://janestyle.net/*
 *://japancourse.com/*
 *://japaneseclass.jp/*
 *://javajgs.com/*
@@ -10789,7 +10786,6 @@
 *://read678.com/*
 *://reader.epubee.com/*
 *://recenja.odszkodowania-kontakt.pl/*
-*://reddit.fun/*
 *://regiaodecister.pt/*
 *://registry.terraform.io/*
 *://remote.chinapm.org/*
@@ -10925,6 +10921,7 @@
 *://sunnews.cc/*
 *://sunnyshushu.com/*
 *://suntoranosuke.com/*
+*://super-unix.com/*
 *://support.ariba.com/*
 *://support.microsoft.com/*
 *://sur.ly/*
@@ -11018,6 +11015,7 @@
 *://ub4.com/*
 *://ubuntu.buildwebhost.com/*
 *://ubuntuaa.com/*
+*://ubuntubin.com/*
 *://ubuntuqa.com/*
 *://uiiiuiii.com/*
 *://ujoy.net/*
@@ -11056,6 +11054,7 @@
 *://w.caseinjp.com/*
 *://w37fhy.cn/*
 *://w3big.com/*
+*://waldorf-am-see.org/*
 *://wangdoc.com/*
 *://wantubizhi.com/*
 *://wap.52pk.com/*
@@ -11214,7 +11213,6 @@
 *://www.2fzb.me/*
 *://www.2kss.com/*
 *://www.2kyu.com/*
-*://www.2nn.jp/*
 *://www.2qqtouxiang.com/*
 *://www.3062.net.cn/*
 *://www.30bags.com/*
@@ -12296,7 +12294,6 @@
 *://www.lastupdate.net/*
 *://www.layerstack.com/*
 *://www.ld12345.com/*
-*://www.learnfk.com/*
 *://www.learnfuture.com/*
 *://www.lebgame.com/*
 *://www.lehuotuan.com/*
@@ -12938,6 +12935,7 @@
 *://www.w3xue.com/*
 *://www.w7.wiki/*
 *://www.wailaike.net/*
+*://www.wake-up-neo.net/*
 *://www.wandouip.com/*
 *://www.wangdb.com/*
 *://www.wangt.cc/*
@@ -13414,6 +13412,10 @@
 /(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
 /(?:www.)[a-z]{2,3}[0-9]{2,3}\.com/
 /(?:www\.){0,1}www[\-]*[\w]{4,8}\.com/
+/([a-z\.]+\.)?2ch\.sc/
+/([a-z\.]+\.)?2nn\.jp/
+/([a-z\.]+\.)?5ch\.net/
+/([a-z\.]+\.)?5chb\.net/
 /([a-z\.]+\.)?admx\.help/
 /([a-z\.]+\.)?butsuyoku-gadget\.com/
 /([a-z\.]+\.)?codetd\.com/
@@ -13421,13 +13423,19 @@
 /([a-z\.]+\.)?desdelinux\.net/
 /([a-z\.]+\.)?geekloving\.net/
 /([a-z\.]+\.)?getdocs\.org/
+/([a-z\.]+\.)?img4\.cam/*://*/so.php
 /([a-z\.]+\.)?ipingguoyuan\.com/
+/([a-z\.]+\.)?janestyle\.net/
 /([a-z\.]+\.)?japanrow\.com/
+/([a-z\.]+\.)?kanmuryou\.com/
 /([a-z\.]+\.)?manuals\.plus/
 /([a-z\.]+\.)?manualzz\.com/
 /([a-z\.]+\.)?mspoweruser\.com/
 /([a-z\.]+\.)?narkive\.com/
 /([a-z\.]+\.)?partitionwizard\.jp/
+/([a-z\.]+\.)?pic2\.icu/
+/([a-z\.]+\.)?shigedosicks\.net/
+/([a-z\.]+\.)?skinandxxx\.com/
 /([a-z\.]+\.)?step-learn\.com/
 /([a-z\.]+\.)?stepsboard\.com/
 /([a-z\.]+\.)?sumahoinfo\.net/
@@ -13436,6 +13444,7 @@
 /([a-z\.]+\.)?techiedelight\.com/
 /([a-z\.]+\.)?telektlist\.com/
 /([a-z\.]+\.)?thefastcode\.com/
+/([a-z\.]+\.)?ula\.cc/
 /.*\/.*\?(?:s|so)=.*/
 /.*\/so\.php/
 /.*\:\/\/www\..*?\.com\/showinfo\-\d+-\d+-\d+\.html/
