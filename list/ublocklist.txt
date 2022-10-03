@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2022-10-02 01:19:02
-# Total count: 13489
+# Version: 2022-10-03 01:09:21
+# Total count: 13530
 
 ! C&J Marketing
 ! Content Farm
@@ -415,6 +415,7 @@
 *://*.21shipping-ams.buzz/*
 *://*.21zhongyao.com/*
 *://*.2201343.cn/*
+*://*.2219cc.com/*
 *://*.222.5634111.com/*
 *://*.22352.xyz/*
 *://*.2277449.cn/*
@@ -777,6 +778,7 @@
 *://*.51chedao.com/*
 *://*.51chelaoda.com/*
 *://*.51cto.com/*
+*://*.51cto.com/topic/*
 *://*.51gole.com/*
 *://*.51huanzu.com/*
 *://*.51p1.com/*
@@ -855,6 +857,7 @@
 *://*.576nkp.cn/*
 *://*.57c69d.bb6zz.com/*
 *://*.57zhuan.cn/*
+*://*.5868685.com/*
 *://*.586nwh.cn/*
 *://*.588c2ts.cn/*
 *://*.58efu.com/*
@@ -1247,6 +1250,7 @@
 *://*.99bboo.cn/*
 *://*.99bizhi.com/*
 *://*.99caipiaoyl.cn/*
+*://*.99jiehun.com/*
 *://*.99mingpian.com/*
 *://*.99ppc.cn/*
 *://*.99sf.org.cn/*
@@ -1298,6 +1302,7 @@
 *://*.a63jmjy.cn/*
 *://*.a6go.com/*
 *://*.a70z15h.cn/*
+*://*.a7la-home.com/*
 *://*.a7zsboe.cn/*
 *://*.a8oglca.cn/*
 *://*.a8om15x.cn/*
@@ -1430,6 +1435,7 @@
 *://*.airtimeaudio.buzz/*
 *://*.aisatoyscn.com/*
 *://*.aiseesoft.com/*
+*://*.aishuaijiao.com/*
 *://*.aituche.com/*
 *://*.aizgu.com/*
 *://*.aiznh.com/*
@@ -1656,6 +1662,7 @@
 *://*.aw10kq.cn/*
 *://*.awesomeopensource.com/*
 *://*.awoutei.cn/*
+*://*.awshao.com/*
 *://*.awwifi.com/*
 *://*.axbjkdlaw.com/*
 *://*.axhdzip.cn/*
@@ -1954,6 +1961,7 @@
 *://*.bmlu.com.cn/*
 *://*.bmnn.cc/*
 *://*.bmq8.com/*
+*://*.bmw8830.com/*
 *://*.bmxssq.com/*
 *://*.bn44zmh.cn/*
 *://*.bn906.com/*
@@ -1974,10 +1982,12 @@
 *://*.boe4ayz.cn/*
 *://*.bohaijixie.com/*
 *://*.bohao5266.cn/*
+*://*.bohlsenpr.com/*
 *://*.boilgame.com/*
 *://*.bokeehome.cn/*
 *://*.bolangwan.com/*
 *://*.bolieyun.com/*
+*://*.bollywoods.ru.com/*
 *://*.bomei007.com/*
 *://*.bongnao.cn/*
 *://*.bonne-table.buzz/*
@@ -2081,6 +2091,7 @@
 *://*.c9nno0t.cn/*
 *://*.c9t87ml.cn/*
 *://*.ca88-com.net/*
+*://*.cache.one/*
 *://*.cadfanholidays.co.uk/*
 *://*.cafegatto.com/*
 *://*.cahors-la.buzz/*
@@ -2177,6 +2188,7 @@
 *://*.celebresource.buzz/*
 *://*.cellophilia.com/*
 *://*.centrimediline.buzz/*
+*://*.centroricercainsubria.it/*
 *://*.century21realtor.buzz/*
 *://*.centurysun.cn/*
 *://*.ceospacela.com/*
@@ -2338,6 +2350,7 @@
 *://*.cndiling.com/*
 *://*.cndqhymh.com/*
 *://*.cndramae.com/*
+*://*.cnfreedomrtveas.ru.com/*
 *://*.cnftth.cn/*
 *://*.cngobig.com/*
 *://*.cngowo.com/*
@@ -2590,6 +2603,7 @@
 *://*.daimazxw.com/*
 *://*.dainifei.info/*
 *://*.daiyun787.cn/*
+*://*.daka111.cn/*
 *://*.dakashoutu.com/*
 *://*.dalianmeng.org/*
 *://*.dalianxinke.cn/*
@@ -2864,6 +2878,7 @@
 *://*.dy1991.com/*
 *://*.dy268.cn/*
 *://*.dycok.com/*
+*://*.dyecn.com/*
 *://*.dyfpme.com/*
 *://*.dyfwdq.com/*
 *://*.dyhcfm.com/*
@@ -2934,6 +2949,7 @@
 *://*.edchgo.cn/*
 *://*.editcode.net/*
 *://*.edithllp.cn/*
+*://*.edition-eltern.com/*
 *://*.ediuschina.com/*
 *://*.edkdq3q.cn/*
 *://*.edoghaitao.com/*
@@ -3066,6 +3082,7 @@
 *://*.excamtest.cn/*
 *://*.exdctol.cn/*
 *://*.exhibitcoupon.com/*
+*://*.exotips.com/*
 *://*.experts-exchange.com/*
 *://*.extendoffice.com/*
 *://*.exthe247.com/*
@@ -3488,7 +3505,9 @@
 *://*.gfsstp.com/*
 *://*.gftna.com/*
 *://*.gfzyecq.com/*
+*://*.gg4ss.com/*
 *://*.ggc-asia.com/*
+*://*.gghu.com/*
 *://*.ggwwyy.com/*
 *://*.ggxpsr.cn/*
 *://*.ggyy8.com/*
@@ -3523,6 +3542,7 @@
 *://*.glassfibre.cn/*
 *://*.glcq55s.cn/*
 *://*.gldplus.com/*
+*://*.gldq123.com/*
 *://*.glehe.com/*
 *://*.glh5770.com/*
 *://*.glhsmm.com/*
@@ -3594,6 +3614,7 @@
 *://*.grafiquesmaral.buzz/*
 *://*.gramfile.com/*
 *://*.great-hall.cn/*
+*://*.greatcappuccino.net/*
 *://*.greatparker.buzz/*
 *://*.greattop.cn/*
 *://*.grhqrx.cn/*
@@ -3634,7 +3655,9 @@
 *://*.gufen138.com/*
 *://*.guheihei.com/*
 *://*.guide-internaute.buzz/*
+*://*.guidecycle.net/*
 *://*.guidingtech.com/*
+*://*.guidlings.com/*
 *://*.guilinshouji.com/*
 *://*.guitarpro.cc/*
 *://*.guiyangjia.com/*
@@ -4315,6 +4338,7 @@
 *://*.ioffeer.buzz/*
 *://*.ioiox.com/*
 *://*.ios.im/*
+*://*.iosvm.com/*
 *://*.iownyour.biz/*
 *://*.ipcnpdu.cn/*
 *://*.ipeizi.xyz/*
@@ -4324,6 +4348,7 @@
 *://*.ipolarstar.cn/*
 *://*.ips8cz.com/*
 *://*.iqnkooc.cn/*
+*://*.iqqoz.com/*
 *://*.iqzbj.cn/*
 *://*.irc3mr0.cn/*
 *://*.iripkbw.cn/*
@@ -4653,6 +4678,7 @@
 *://*.judongneng.com/*
 *://*.juejin.cn/s/*
 *://*.jueshi.in/*
+*://*.juhebbs.com/*
 *://*.juhu123.com/*
 *://*.jujia9.com/*
 *://*.jukangsw.com/*
@@ -4704,6 +4730,7 @@
 *://*.jyguolin.com/*
 *://*.jyhtylsb.com/*
 *://*.jykexin.com/*
+*://*.jynews.net/*
 *://*.jysdzs.com/*
 *://*.jywlife.com/*
 *://*.jyx766d.cn/*
@@ -5017,6 +5044,7 @@
 *://*.leifengtv.com/*
 *://*.leilei18.cn/*
 *://*.leinuoda68.cn/*
+*://*.leixue.com/*
 *://*.lelely.com/*
 *://*.lemar.tv/*
 *://*.lengfeng.net/*
@@ -5512,6 +5540,7 @@
 *://*.modelosquetarojas.buzz/*
 *://*.modoaydinlatma.buzz/*
 *://*.moe.am/*
+*://*.moe.ms/*
 *://*.mofalin.com/*
 *://*.mokegod.com/*
 *://*.moktime.com/*
@@ -5862,6 +5891,7 @@
 *://*.nxyztrx.cn/*
 *://*.ny5ih9z.cn/*
 *://*.nyccz.com/*
+*://*.nyist.net/*
 *://*.nyjcjy.com/*
 *://*.nyjjl.com/*
 *://*.nywanai.com/*
@@ -5969,6 +5999,7 @@
 *://*.orifqqi.cn/*
 *://*.ork8t2.cn/*
 *://*.os8d0f.cn/*
+*://*.oschina.net/informat/*
 *://*.ose.cc/*
 *://*.osevcy0.cn/*
 *://*.osmazt.cn/*
@@ -6175,6 +6206,7 @@
 *://*.pm5ehlh.cn/*
 *://*.pml0v.cn/*
 *://*.pmtt.cc/*
+*://*.pn3p.com/*
 *://*.pn9y.com/*
 *://*.pnelwjz.cn/*
 *://*.pnih1wn.cn/*
@@ -6491,6 +6523,7 @@
 *://*.quembre.buzz/*
 *://*.quiet-city.buzz/*
 *://*.quinsaatbookeepingandtax.buzz/*
+*://*.qumiaodong.com/*
 *://*.qunkong.com.cn/*
 *://*.quweiso.com/*
 *://*.quwjjlj.cn/*
@@ -7086,6 +7119,7 @@
 *://*.slq8.cn/*
 *://*.slqyjt.com/*
 *://*.slqzjxc.com/*
+*://*.sm-tc.cn/*
 *://*.sm1234.net/*
 *://*.sm158.cn/*
 *://*.sma.so/*
@@ -7213,6 +7247,7 @@
 *://*.sqlite.in/*
 *://*.sqn8.cn/*
 *://*.sqp.buzz/*
+*://*.squadguide.net/*
 *://*.sqzlsy.cn/*
 *://*.sr0csj.cn/*
 *://*.sr0lsgr.cn/*
@@ -7450,6 +7485,7 @@
 *://*.tbfb1g0.cn/*
 *://*.tbfirm.com/*
 *://*.tbftz.com/*
+*://*.tbganhuo.com/*
 *://*.tbplate.com/*
 *://*.tbs100.com/*
 *://*.tbsch.com/*
@@ -7999,6 +8035,7 @@
 *://*.vtiorio.com/*
 *://*.vtoyq.com/*
 *://*.vva71ue.cn/*
+*://*.vvfx.cc/*
 *://*.vvlbxbh.cn/*
 *://*.vvwodsc.cn/*
 *://*.vvyqm7.cn/*
@@ -8181,6 +8218,7 @@
 *://*.whjnrj.com/*
 *://*.whldl.com/*
 *://*.whm00f6.cn/*
+*://*.whoisua.com/*
 *://*.whoisvip.cn/*
 *://*.whpc.cc/*
 *://*.whrsjdwx.com/*
@@ -8259,6 +8297,7 @@
 *://*.women007.com/*
 *://*.womens-channel.buzz/*
 *://*.woniukeji.com.cn/*
+*://*.woniuwl.com/*
 *://*.woodros.cn/*
 *://*.woool518.com/*
 *://*.woou0nl.cn/*
@@ -8750,6 +8789,7 @@
 *://*.xykjsqg.com/*
 *://*.xypcxl.com/*
 *://*.xysdjz.com/*
+*://*.xyttt.com/*
 *://*.xytuwen.com/*
 *://*.xyycgs.com/*
 *://*.xzc120.com/*
@@ -13492,4 +13532,5 @@ title/.*_点击一次就可以出国/
 title/.*q微同号.*/
 title/.*【一键访问国外网站】/
 title/.*【点击一次就可以出国】/
+title/.*有限公司官网/
 title/小.(百科|知识)网/
