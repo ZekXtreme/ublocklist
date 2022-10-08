@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2022-10-07 01:20:34
-# Total count: 13530
+# Version: 2022-10-08 01:04:42
+# Total count: 13491
 
 ! C&J Marketing
 ! Content Farm
@@ -1504,7 +1504,6 @@
 *://*.ampblog.cn/*
 *://*.amphioninternational.buzz/*
 *://*.amtt.cc/*
-*://*.amuddycup.com/*
 *://*.amww.cc/*
 *://*.amyspastasauce.com/*
 *://*.amzalborz.com/*
@@ -1537,7 +1536,6 @@
 *://*.anpaicao.cn/*
 *://*.anqu998.com/*
 *://*.anrezg.com/*
-*://*.answacode.com/*
 *://*.answers.gethuman.com/*
 *://*.antarcticshop.com/*
 *://*.anthonyspage.buzz/*
@@ -2198,7 +2196,6 @@
 *://*.cetturismo.cl/*
 *://*.cf628.com/*
 *://*.cf6h0hw.cn/*
-*://*.cfadnc.org/*
 *://*.cfe-eutax.buzz/*
 *://*.cfjliu.cn/*
 *://*.cfnsxh.com/*
@@ -2374,7 +2371,6 @@
 *://*.codebug.vip/*
 *://*.codeczz.com/*
 *://*.codeday.me/*
-*://*.codefaq.info/*
 *://*.codeflow.site/*
 *://*.codegrepper.com/*
 *://*.codehero.jp/*
@@ -2504,7 +2500,6 @@
 *://*.cu0ky3s.cn/*
 *://*.cu1rcto.cn/*
 *://*.cuishilin.com/*
-*://*.culinarydegree.info/*
 *://*.cumminseagle.buzz/*
 *://*.cumslinger.buzz/*
 *://*.cundang.cc/*
@@ -2792,7 +2787,6 @@
 *://*.dofe.com.cn/*
 *://*.dolchul.buzz/*
 *://*.domain.glass/*
-*://*.domainelespailles.net/*
 *://*.domihp.com/*
 *://*.domy365.com/*
 *://*.don-mar.buzz/*
@@ -2934,12 +2928,10 @@
 *://*.ebikeyun.com/*
 *://*.ebtworld.com/*
 *://*.ebziyus.cn/*
-*://*.ec-europe.org/*
 *://*.ec002.com/*
 *://*.ecagnzq.cn/*
 *://*.ecfly.cn/*
 *://*.echoxx.com/*
-*://*.ecnf2016.org/*
 *://*.ecocrownhospitality.com/*
 *://*.ecommerce-folks.com/*
 *://*.econo-tax.buzz/*
@@ -2991,7 +2983,6 @@
 *://*.electricgreetings.buzz/*
 *://*.electronicstrip.buzz/*
 *://*.elemw.cn/*
-*://*.elfishgene.com/*
 *://*.elisongs.com/*
 *://*.eliveint.com/*
 *://*.ellceedee.buzz/*
@@ -3123,7 +3114,6 @@
 *://*.faguoboss.com/*
 *://*.fairer.cn/*
 *://*.fairway-travel.buzz/*
-*://*.faithcov.org/*
 *://*.faithfilledapparel.com/*
 *://*.fajun99.com/*
 *://*.falmstfz.cn/*
@@ -3228,7 +3218,6 @@
 *://*.fish996.com/*
 *://*.fishdes.buzz/*
 *://*.fishdm.com/*
-*://*.fitforlearning.org/*
 *://*.fitid.buzz/*
 *://*.fitzfirst.buzz/*
 *://*.fivecoloursearth.buzz/*
@@ -3675,7 +3664,6 @@
 *://*.guomomo.com/*
 *://*.guoqilian.com/*
 *://*.guoxuancm.com/*
-*://*.gupgallery.com/*
 *://*.guroma.com/*
 *://*.guwan1959.com/*
 *://*.guxante.com/*
@@ -5832,7 +5820,6 @@
 *://*.nnpq8dx.cn/*
 *://*.nntianhai.com/*
 *://*.no54hagleyroad.buzz/*
-*://*.noblenaz.org/*
 *://*.nodep2p.com/*
 *://*.noiseofmax.net/*
 *://*.nomurlar.com/*
@@ -5940,7 +5927,6 @@
 *://*.offlineinstallersofts.com/*
 *://*.ofweek.com/*
 *://*.ogate.org/*
-*://*.ogeek.cn/*
 *://*.ogiharasekiyu.buzz/*
 *://*.ogng.com.cn/*
 *://*.oh2ckvf.cn/*
@@ -6005,7 +5991,6 @@
 *://*.osmazt.cn/*
 *://*.osobuy.com/*
 *://*.ost-us.com/*
-*://*.ostack.cn/*
 *://*.osw7ta.cn/*
 *://*.osx86project.org/*
 *://*.ot1yc0v.cn/*
@@ -6017,7 +6002,6 @@
 *://*.ouiot.com/*
 *://*.ouliandianqi.cn/*
 *://*.ouqin2018.com/*
-*://*.ourladylakes.org/*
 *://*.ourmercado.buzz/*
 *://*.ourplay.net/ask/*
 *://*.ourplay.net/qazt/*
@@ -6064,7 +6048,6 @@
 *://*.palicaishi.com/*
 *://*.pan.haoii123.com/*
 *://*.pan.yini.me/*
-*://*.panaindustrial.com/*
 *://*.pandaholiday.cn/*
 *://*.panjk.com/*
 *://*.panmeix.com/*
@@ -6092,7 +6075,6 @@
 *://*.pc0691.com/*
 *://*.pc0912.com/*
 *://*.pc6.com/infoview/*
-*://*.pcbconline.org/*
 *://*.pcerror-fix.com/*
 *://*.pcizplv.cn/*
 *://*.pclbjk0.cn/*
@@ -6842,7 +6824,6 @@
 *://*.scfc666.com/*
 *://*.scfyhzy.com/*
 *://*.scgsp.com/*
-*://*.sch22.org/*
 *://*.schmidt-cassel.buzz/*
 *://*.scholarad.com/*
 *://*.schox-iplaw.buzz/*
@@ -7051,7 +7032,6 @@
 *://*.shzengsi.com/*
 *://*.shzewang.com/*
 *://*.sierramadreplayhouse.org/*
-*://*.sierrasummit2005.org/*
 *://*.sifuqi123.com/*
 *://*.sihaiyuanlin.com/*
 *://*.sihutong.cn/*
@@ -7073,7 +7053,6 @@
 *://*.sitenb.com/*
 *://*.sitevalue.net/*
 *://*.siv6q88.cn/*
-*://*.siwib.org/*
 *://*.sj.itdqs.com/*
 *://*.sj55.org/*
 *://*.sjaak-ramakers.buzz/*
@@ -7315,7 +7294,6 @@
 *://*.sumrzuj.cn/*
 *://*.suncejun.cn/*
 *://*.sundaeshoes.com/*
-*://*.sunflowercreations.org/*
 *://*.sunhunjia.com/*
 *://*.sunmumu.com/*
 *://*.sunnynana.com/*
@@ -7556,7 +7534,6 @@
 *://*.therapist-list.buzz/*
 *://*.thermtecuk.buzz/*
 *://*.theshakerinn.buzz/*
-*://*.theshuggahpies.com/*
 *://*.thesurfsiders.buzz/*
 *://*.thevelvetheaven.buzz/*
 *://*.thewordcracker.com/*
@@ -9434,7 +9411,6 @@
 *://*.zs3311.com/*
 *://*.zsdmc.cn/*
 *://*.zseo32o.cn/*
-*://*.zsharp.org/*
 *://*.zsmcl.com/*
 *://*.zsmulan.com/*
 *://*.zsqltz.com/*
@@ -9827,7 +9803,6 @@
 *://career-find.jp/*
 *://careers.longi.com/*
 *://carry.pw/*
-*://catwolf.org/*
 *://cctsuzhou.cn/*
 *://cdbike.net/*
 *://cdmana.com/*
@@ -9899,11 +9874,9 @@
 *://cnls8.com/*
 *://cnzhx.net/*
 *://code-examples.net/*
-*://code.i-harness.com/*
 *://code.z01.com/*
 *://codeantenna.com/*
 *://codeday.me/*
-*://codefaq.ru/*
 *://codegear.dev/*
 *://codegrepr.com/*
 *://codeguides.site/*
@@ -9913,7 +9886,6 @@
 *://coder-question.com/*
 *://coder-solution-es.com/*
 *://coder.gay/*
-*://coderedirect.com/*
 *://coderoad.ru/*
 *://codertw.com/*
 *://codesti.com/*
@@ -9955,7 +9927,6 @@
 *://czba.quazzle.de/*
 *://d.zymrg.com/*
 *://daiki-global.work/*
-*://dailydevsblog.com/*
 *://daimajiaoliu.com/*
 *://daliqckj.com/*
 *://dandelioncloud.cn/*
@@ -9977,7 +9948,6 @@
 *://detail.zol.com.cn/*
 *://dev-qa.com/*
 *://devdocs.magento.com/*
-*://devdreamz.com/*
 *://develop.sogou88812345.com/*
 *://developer.aliyun.com/articlezt/*
 *://developer.aliyun.com/ask/*
@@ -10055,7 +10025,6 @@
 *://edu.dowolf.com/*
 *://edu.puzhing.com/*
 *://edu.zhinanmed.com/*
-*://edupro.id/*
 *://ee.ofweek.com/*
 *://eedu.tv/*
 *://egny.fieldball.de/*
@@ -10307,7 +10276,6 @@
 *://its401.com/*
 *://itw01.com/*
 *://j.17qq.com/*
-*://jablogs.com/*
 *://jakdy.com/*
 *://jamyi.com/*
 *://janche.github.io/*
@@ -10808,7 +10776,6 @@
 *://qipai.coms.hk/*
 *://qishh.com/*
 *://qooqo.ru/*
-*://quabr.com/*
 *://question-it.com/*
 *://questu.ru/*
 *://quhao.293.net/*
@@ -10931,7 +10898,6 @@
 *://sspai.com/*
 *://sswhsign.com/*
 *://stackask.cn/*
-*://stackfinder.jp.net/*
 *://stackguides.com/*
 *://stackify.com/*
 *://stackoom.com/*
@@ -11014,7 +10980,6 @@
 *://thewikihow.com/*
 *://thiscrack.com/*
 *://time.geekbang.org/*
-*://tipsfordev.com/*
 *://tipstour.net/*
 *://tjlianhe.com/*
 *://tjshuju.com/*
@@ -12258,7 +12223,6 @@
 *://www.jqgdsz.com/*
 *://www.jqhtml.com/*
 *://www.jsbmxt.com/*
-*://www.jscodetips.com/*
 *://www.jshfwire.com/*
 *://www.jsjiama.com/*
 *://www.jsnongnong.com/*
@@ -12867,7 +12831,6 @@
 *://www.timofang.net/*
 *://www.tinkpic.com/*
 *://www.tintsoft.com/*
-*://www.titanwolf.org/*
 *://www.tj-sysm.com/*
 *://www.tjlxffmy.com/*
 *://www.tjnp.gov.tw/*
@@ -12914,7 +12877,6 @@
 *://www.u19.cn/*
 *://www.u9h.com/*
 *://www.ucloud.cn/*
-*://www.uebu-kaihatsu.jp.net/*
 *://www.ui.cn/*
 *://www.uigame.net/*
 *://www.uihtm.com/*
@@ -13369,7 +13331,6 @@
 *://yizhiyoudao.kuaizhan.com/*
 *://ym.maptoface.com/*
 *://youfx.cc/*
-*://younggeeks.in/*
 *://yourmystar.jp/*
 *://yp.jd.com/*
 *://yq.aliyun.com/*
