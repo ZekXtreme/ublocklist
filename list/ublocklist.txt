@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2022-11-25 00:54:39
-# Total count: 13226
+# Version: 2022-11-26 00:50:16
+# Total count: 13227
 
 ! C&J Marketing
 ! Content Farm
@@ -10180,6 +10180,7 @@
 *://it.wenda123.org/*
 *://itbilu.com/*
 *://itecnote.com/*
+*://itecnotes.com/*
 *://itectec.com/*
 *://item.jd.com/*
 *://iter01.com/*
