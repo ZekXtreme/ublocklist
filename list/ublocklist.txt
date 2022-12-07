@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2022-12-06 00:49:56
-# Total count: 13227
+# Version: 2022-12-07 00:53:06
+# Total count: 13239
 
 ! C&J Marketing
 ! Content Farm
@@ -813,6 +813,7 @@
 *://*.52hnncw.com/*
 *://*.52huitang.com/*
 *://*.52huiyijia.com/*
+*://*.52sbl.cn/*
 *://*.52station.com/*
 *://*.52tfutr.cn/*
 *://*.52wbt.com/*
@@ -2818,6 +2819,7 @@
 *://*.draffinenterprises.buzz/*
 *://*.dreamscapesmud.buzz/*
 *://*.dresource.cn/*
+*://*.driedpeel.com/*
 *://*.dropsdai.com/*
 *://*.drtz88.com/*
 *://*.ds60.cn/*
@@ -3555,6 +3557,7 @@
 *://*.gnmw.com.cn/*
 *://*.gntqruo.cn/*
 *://*.gnwxcy.com/*
+*://*.go-travels.com/*
 *://*.go168vip.com/*
 *://*.goangel.cn/*
 *://*.gobaishi.com/*
@@ -4028,6 +4031,7 @@
 *://*.houtaiyun.com/*
 *://*.howietech.com/*
 *://*.howsou.com/*
+*://*.howtl.com/*
 *://*.howtoip.com/*
 *://*.howtopapa.com/*
 *://*.hozyayka.org/*
@@ -4773,6 +4777,7 @@
 *://*.kbck.tzrui.top/*
 *://*.kbie4ab.cn/*
 *://*.kbkb7.com/*
+*://*.kbpp.org/*
 *://*.kbrswkj.com/*
 *://*.kcd663.cn/*
 *://*.kcexvop.cn/*
@@ -4953,6 +4958,7 @@
 *://*.label-america.buzz/*
 *://*.lacasajaguar.buzz/*
 *://*.lace11111.com/*
+*://*.lacomparacion.com/*
 *://*.lady513.com/*
 *://*.ladydaigou.com/*
 *://*.laehgkg.cn/*
@@ -5549,6 +5555,7 @@
 *://*.moviescome.com/*
 *://*.mowangpapa.com/*
 *://*.moxisq.com/*
+*://*.moyens.net/*
 *://*.mozartkuss.buzz/*
 *://*.mozhimi.com/*
 *://*.mozzinovo.club/*
@@ -5960,6 +5967,7 @@
 *://*.open.com.hk/*
 *://*.opris.chengjinzm.com/*
 *://*.optoviki.buzz/*
+*://*.opython.com/*
 *://*.oqgeyvg.cn/*
 *://*.oqlgb.com/*
 *://*.oqyeiaw.cn/*
@@ -7224,6 +7232,7 @@
 *://*.ssffw.com/*
 *://*.ssghxl.com/*
 *://*.ssglnkyy.com/*
+*://*.sshce.com/*
 *://*.ssiatvh.cn/*
 *://*.ssjxhy.com/*
 *://*.ssl.bet/*
@@ -7617,6 +7626,7 @@
 *://*.tomatoesweb.com/*
 *://*.toms2013.com/*
 *://*.tomzx.com/*
+*://*.tongbu.com/*
 *://*.tongfengqu.com/*
 *://*.tonghejiu.com/*
 *://*.tongpixie.com/*
@@ -7804,6 +7814,7 @@
 *://*.uk.com/*
 *://*.ukbu5pa.cn/*
 *://*.ukp76oa.cn/*
+*://*.ulidc.com/*
 *://*.ulkhmiim.cn/*
 *://*.ultimate-communications.com/*
 *://*.ultraiso.net/*
@@ -9295,6 +9306,7 @@
 *://*.zhugecar.com/*
 *://*.zhuhaiclub.com/*
 *://*.zhuichaguoji.org/*
+*://*.zhuji.gd/*
 *://*.zhunar18.com/*
 *://*.zhuohuisz.com/*
 *://*.zhuoweihr.com/*
