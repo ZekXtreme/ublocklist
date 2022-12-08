@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2022-12-07 00:53:06
-# Total count: 13239
+# Version: 2022-12-08 00:49:41
+# Total count: 13248
 
 ! C&J Marketing
 ! Content Farm
@@ -305,6 +305,7 @@
 *://*.1753235.cn/*
 *://*.176buy.com/*
 *://*.178cj.com/*
+*://*.17bigdata.com/*
 *://*.17dhs.cn/*
 *://*.17fuyou.com/*
 *://*.17junlin.com/*
@@ -2367,6 +2368,7 @@
 *://*.code-adviser.com/*
 *://*.code-examples.net/*
 *://*.code.i-harness.com/*
+*://*.code2s.com/*
 *://*.codeantenna.com/*
 *://*.codebug.vip/*
 *://*.codeczz.com/*
@@ -5119,6 +5121,7 @@
 *://*.livefilestore.cn/*
 *://*.liveidc.cn/*
 *://*.living-sun.com/*
+*://*.liweiliang.com/*
 *://*.liwu.bi/*
 *://*.liyacxq.com/*
 *://*.liyazy.com/*
@@ -6123,6 +6126,7 @@
 *://*.photozoomchina.com/*
 *://*.php.cn/*
 *://*.phphqc.cc/*
+*://*.phpmianshi.com/*
 *://*.phpqaw.cc/*
 *://*.phqyauh.cn/*
 *://*.phxgmy.com/*
@@ -6407,6 +6411,7 @@
 *://*.qifakeji.com/*
 *://*.qifuxuan.com/*
 *://*.qikan519.com/*
+*://*.qilin668.com/*
 *://*.qingdaosailing.com/*
 *://*.qingkeyy.com/*
 *://*.qingshi8.cn/*
@@ -7781,6 +7786,7 @@
 *://*.u4j2nj.cn/*
 *://*.u4paxdt.cn/*
 *://*.u6i6rao.cn/*
+*://*.u72.net/*
 *://*.u8588.com/*
 *://*.u8nqbfs.cn/*
 *://*.ua648vk.cn/*
@@ -8050,6 +8056,7 @@
 *://*.wan8cfd.cn/*
 *://*.wanaijiu.com/*
 *://*.wanda883.cn/*
+*://*.wandouip.com/*
 *://*.wangleju.com/*
 *://*.wangluotizi.com/*
 *://*.wangshuai.net/*
@@ -9238,6 +9245,7 @@
 *://*.zhai168.cn/*
 *://*.zhajun.com/*
 *://*.zhandou666.cn/*
+*://*.zhangbj.com/*
 *://*.zhangyg.com/*
 *://*.zhanso.cn/*
 *://*.zhao188.com/*
@@ -9311,6 +9319,7 @@
 *://*.zhuohuisz.com/*
 *://*.zhuoweihr.com/*
 *://*.zhutigm.com/*
+*://*.zhuxianfei.com/*
 *://*.zhuxuekeji.com/*
 *://*.zhuyimei.cn/*
 *://*.zhwy360.com/*
