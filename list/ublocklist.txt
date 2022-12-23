@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2022-12-22 00:49:19
-# Total count: 13248
+# Version: 2022-12-23 00:47:39
+# Total count: 13252
 
 ! C&J Marketing
 ! Content Farm
@@ -1301,6 +1301,7 @@
 *://*.a5b2m3a.cn/*
 *://*.a5goqdo.cn/*
 *://*.a5th5xh.cn/*
+*://*.a5vpn.com/*
 *://*.a63jmjy.cn/*
 *://*.a6go.com/*
 *://*.a70z15h.cn/*
@@ -1946,6 +1947,7 @@
 *://*.blitz-tipp.buzz/*
 *://*.bljt1x2.cn/*
 *://*.blog.jiecaoba.cn/*
+*://*.bloggersideas.com/*
 *://*.blogsbodasdeisabel.com/*
 *://*.blom7o0.cn/*
 *://*.blu.gd.cn/*
@@ -7080,6 +7082,7 @@
 *://*.skh1oni.cn/*
 *://*.skipsfiesta.buzz/*
 *://*.sklbv40.cn/*
+*://*.sktfaker.com/*
 *://*.sktschool.com/*
 *://*.sky315.com/*
 *://*.skyboxconsult.buzz/*
@@ -7917,6 +7920,7 @@
 *://*.vemate.com/*
 *://*.veqwwe.cn/*
 *://*.versionfemme.buzz/*
+*://*.versus.com/*
 *://*.vertech-fr.buzz/*
 *://*.verycd9.com/*
 *://*.vetcommunications.buzz/*
