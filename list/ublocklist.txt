@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2022-12-24 00:43:06
-# Total count: 13252
+# Version: 2022-12-25 00:51:43
+# Total count: 13257
 
 ! C&J Marketing
 ! Content Farm
@@ -2824,6 +2824,7 @@
 *://*.dreamscapesmud.buzz/*
 *://*.dresource.cn/*
 *://*.driedpeel.com/*
+*://*.driversupport.com/*
 *://*.dropsdai.com/*
 *://*.drtz88.com/*
 *://*.ds60.cn/*
@@ -2943,6 +2944,7 @@
 *://*.ecp567.com/*
 *://*.ed2ks.com/*
 *://*.edchgo.cn/*
+*://*.edianyun.com/*
 *://*.editcode.net/*
 *://*.edithllp.cn/*
 *://*.edition-eltern.com/*
@@ -3317,6 +3319,7 @@
 *://*.freax.be/*
 *://*.frederique-davezac.fr/*
 *://*.free-lunwen.com/*
+*://*.freecodecamp.org/news/*
 *://*.freednewstimes.com/*
 *://*.freeguo.com/*
 *://*.freejobalerts24.com/*
@@ -7485,6 +7488,7 @@
 *://*.teamumwelt.buzz/*
 *://*.teapm.com/*
 *://*.techdevian.com/*
+*://*.techloris.com/*
 *://*.techonegame.com/*
 *://*.techpout.com/*
 *://*.techresearchonline.com/*
@@ -8226,6 +8230,7 @@
 *://*.win10howto.ru/*
 *://*.win10set.com/*
 *://*.windows-1.com/*
+*://*.windows101tricks.com/*
 *://*.windows8downloads.com/*
 *://*.windowsdispatch.com/*
 *://*.windowsphoneinfo.com/*
