@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2023-01-13 00:52:02
-# Total count: 13257
+# Version: 2023-01-14 00:47:54
+# Total count: 13289
 
 ! C&J Marketing
 ! Content Farm
@@ -1429,6 +1429,7 @@
 *://*.aim-direct.buzz/*
 *://*.aimees.cn/*
 *://*.aimeimm.cn/*
+*://*.aimizn.com/*
 *://*.ainilaiba.com/*
 *://*.aiqq8.cn/*
 *://*.air-ballon.buzz/*
@@ -1501,6 +1502,7 @@
 *://*.altapps.net/*
 *://*.altierisauto.buzz/*
 *://*.amalur-madretierra.es/*
+*://*.amerbiz.com/*
 *://*.amercoffee.buzz/*
 *://*.americankidswear.buzz/*
 *://*.amillionpoems.buzz/*
@@ -1567,6 +1569,7 @@
 *://*.apkfun.com/*
 *://*.apkhr.com/*
 *://*.apkplz.net/*
+*://*.apkyu.com/*
 *://*.apotheken-bestellung.buzz/*
 *://*.app-good.com/*
 *://*.app.3987.com/*
@@ -1995,6 +1998,7 @@
 *://*.bookresource.net/*
 *://*.booksheji.com/*
 *://*.booswr.cn/*
+*://*.boqii.com/*
 *://*.borasweb.buzz/*
 *://*.bos119.com/*
 *://*.boschgl.com/*
@@ -2366,6 +2370,7 @@
 *://*.cnsasj.com/*
 *://*.cnvbea.cn/*
 *://*.cnvhair.com/*
+*://*.cnxiangyan.com/*
 *://*.coddagn.cn/*
 *://*.code-adviser.com/*
 *://*.code-examples.net/*
@@ -2590,6 +2595,7 @@
 *://*.daae.com.cn/*
 *://*.dacongyun.com/*
 *://*.dadayx.com/*
+*://*.dadighost.com/*
 *://*.daewoohair.buzz/*
 *://*.dafahao.com/*
 *://*.dafb.cc/*
@@ -2691,6 +2697,7 @@
 *://*.developpaper.com/*
 *://*.developreference.com/*
 *://*.devfgrt.com/*
+*://*.devicesfaq.com/*
 *://*.devk-agentur.buzz/*
 *://*.deyu1688.com/*
 *://*.dfjdtz.com/*
@@ -2824,6 +2831,7 @@
 *://*.dreamscapesmud.buzz/*
 *://*.dresource.cn/*
 *://*.driedpeel.com/*
+*://*.drivereasy.com/*
 *://*.driversupport.com/*
 *://*.dropsdai.com/*
 *://*.drtz88.com/*
@@ -3079,6 +3087,7 @@
 *://*.exhibitcoupon.com/*
 *://*.exotips.com/*
 *://*.experts-exchange.com/*
+*://*.express.co.uk/*
 *://*.exthe247.com/*
 *://*.extrabux.com/*
 *://*.extreme-mac.buzz/*
@@ -3427,6 +3436,7 @@
 *://*.gan-ren.com/*
 *://*.ganghuajl.com/*
 *://*.ganxi318.com/*
+*://*.gaojipro.com/*
 *://*.gaojiq.cn/*
 *://*.gaokaobj.cn/*
 *://*.gaolou9899.cn/*
@@ -3791,6 +3801,7 @@
 *://*.hapc.cc/*
 *://*.happy128.com/*
 *://*.happy1801.com/*
+*://*.hardreset.info/*
 *://*.harrysurplus.buzz/*
 *://*.hashbet.casino/*
 *://*.hastynews.com/*
@@ -4039,7 +4050,9 @@
 *://*.howietech.com/*
 *://*.howsou.com/*
 *://*.howtl.com/*
+*://*.howtofixwindows.com/*
 *://*.howtoip.com/*
+*://*.howtoisolve.com/*
 *://*.howtopapa.com/*
 *://*.hozyayka.org/*
 *://*.hozz.cn/*
@@ -5210,6 +5223,7 @@
 *://*.lrs8.cn/*
 *://*.lrytl2r.cn/*
 *://*.ls2vk97.cn/*
+*://*.lsbin.com/*
 *://*.lsbizhi.com/*
 *://*.lsfymp.com/*
 *://*.lsg8.cn/*
@@ -5833,6 +5847,7 @@
 *://*.noodv.com/*
 *://*.norcomits.buzz/*
 *://*.nordvpnblog.com/*
+*://*.notebookcheck-cn.com/*
 *://*.notesearch.cc/*
 *://*.novbox.buzz/*
 *://*.np.henhenlu1.cn/*
@@ -5867,6 +5882,7 @@
 *://*.nugetmusthaves.com/*
 *://*.nujkw33.cn/*
 *://*.nuomiphp.com/*
+*://*.nuoptima.com/*
 *://*.nv4sat.cn/*
 *://*.nvohcio.cn/*
 *://*.nvotent.cn/*
@@ -6064,6 +6080,7 @@
 *://*.partyd.cc/*
 *://*.paseoparkview.com/*
 *://*.pashfon.cn/*
+*://*.passfab.com/*
 *://*.passionss.buzz/*
 *://*.passwordrecovery.cn/*
 *://*.patriknorstrom.buzz/*
@@ -6608,6 +6625,7 @@
 *://*.rechigroup.com/*
 *://*.reddit.com/r/Pinterest/
 *://*.redeszone.net/*
+*://*.redian.news/*
 *://*.redspicks.buzz/*
 *://*.redsunbaby.cn/*
 *://*.redveronica.buzz/*
@@ -6615,6 +6633,7 @@
 *://*.relcare.com.cn/*
 *://*.relocate-us.buzz/*
 *://*.remorquesboeglin.buzz/*
+*://*.remosoftware.com/*
 *://*.renaopai.com/*
 *://*.renfas.com/*
 *://*.renliuhs.cn/*
@@ -6787,6 +6806,7 @@
 *://*.sailintyre.com/*
 *://*.saintlad.com/*
 *://*.saishaicai.com/*
+*://*.sakoba.fr/*
 *://*.sakurabusters.buzz/*
 *://*.sal88.cn/*
 *://*.salonseudunasunnot.buzz/*
@@ -7172,6 +7192,7 @@
 *://*.softpedia.com/*
 *://*.softradar.com/*
 *://*.softwarebrother.com/*
+*://*.softwarekeep.com/*
 *://*.softwaremadman.blogspot.com/*
 *://*.softwaresex.buzz/*
 *://*.softwaresuggest.com/*
@@ -7762,6 +7783,7 @@
 *://*.txeendx.buzz/*
 *://*.txfkc.com/*
 *://*.txtlist.top/*
+*://*.txweb.com/*
 *://*.txy1996.com/*
 *://*.ty52fo.cn/*
 *://*.tybyaf.com/*
@@ -7862,6 +7884,7 @@
 *://*.uqseo.com/*
 *://*.urgnkky.cn/*
 *://*.urontz.com/*
+*://*.urtasker.com/*
 *://*.usa135.com/*
 *://*.usachinatech.buzz/*
 *://*.usbmaker.cn/*
@@ -8003,6 +8026,7 @@
 *://*.volprixreduit.buzz/*
 *://*.volvootofinans.com/*
 *://*.voorp.com/*
+*://*.vouchercodes.co.uk/*
 *://*.vouchergains.co.uk/*
 *://*.vpfwzjt.cn/*
 *://*.vplugins.com/*
@@ -8229,6 +8253,7 @@
 *://*.win10fix.com/*
 *://*.win10howto.ru/*
 *://*.win10set.com/*
+*://*.win7zhijia.cn/*
 *://*.windows-1.com/*
 *://*.windows101tricks.com/*
 *://*.windows8downloads.com/*
@@ -8586,6 +8611,7 @@
 *://*.xiaosou.cc/*
 *://*.xiaosousou.com/*
 *://*.xiaossx.com/*
+*://*.xiaoyuanjiu.com/*
 *://*.xiaozhannk.com/*
 *://*.xiaozhaozhaopin.com/*
 *://*.xiaozhishi.net/*
@@ -9011,6 +9037,7 @@
 *://*.ynvns.cn/*
 *://*.ynwtj7u.cn/*
 *://*.ynyunyuan.com/*
+*://*.yodot.com/*
 *://*.yogacorepower.com/*
 *://*.yogekeji.com/*
 *://*.yon.hk/*
@@ -9288,6 +9315,7 @@
 *://*.zhidao.baidu.com.cn/*
 *://*.zhidao.baidu.com/*
 *://*.zhidao.haosou.com/*
+*://*.zhifure.com/*
 *://*.zhihujingxuan.com/*
 *://*.zhijiad.com/*
 *://*.zhijiaw.com/*
@@ -9946,6 +9974,8 @@
 *://dingtalk.com/*
 *://diodiodio.com/*
 *://diqiu888.com/*
+*://discountcode.dailymail.co.uk/*
+*://discountcode.mirror.co.uk/*
 *://dl.pconline.com.cn/*
 *://dlcswm.com/*
 *://dlshenda.com/*
@@ -12297,6 +12327,7 @@
 *://www.njrqhd.com/*
 *://www.njsz99.com/*
 *://www.nkswoosh.com/*
+*://www.nme.com/discount-codes/*
 *://www.nmhsp.com/*
 *://www.nmplus.hk/*
 *://www.nnbsh.com/*
@@ -13248,6 +13279,7 @@
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 @*://*.tspweb.com/*
+https://huifu.wondershare.cn/repair/*
 title/.* - 小.(百科 | 知识) 网$/404: Not Found/.pinterest\.*/
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
