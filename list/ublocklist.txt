@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2023-02-16 00:53:44
-# Total count: 13291
+# Version: 2023-02-17 00:56:22
+# Total count: 13302
 
 ! C&J Marketing
 ! Content Farm
@@ -1633,6 +1633,7 @@
 *://*.askraft.buzz/*
 *://*.asnn.cc/*
 *://*.asp.cx/*
+*://*.assignmenter.com/*
 *://*.asspunk.iteye.com/*
 *://*.assurancesmeilleur.buzz/*
 *://*.asylan.com/*
@@ -2608,6 +2609,7 @@
 *://*.daimaqa.com/*
 *://*.daimazxw.com/*
 *://*.dainifei.info/*
+*://*.daixieessay.com/*
 *://*.daiyun787.cn/*
 *://*.daka111.cn/*
 *://*.dakashoutu.com/*
@@ -2855,6 +2857,7 @@
 *://*.dubaipga.buzz/*
 *://*.dublinpages.buzz/*
 *://*.duboot.com/*
+*://*.duewriting.com/*
 *://*.duhuimall.com/*
 *://*.duield.cn/*
 *://*.dumoba.com/*
@@ -2862,6 +2865,7 @@
 *://*.duobiji.com/*
 *://*.duonao.cc/*
 *://*.duosf.org.cn/*
+*://*.duotin.com/*
 *://*.duqingming.com/*
 *://*.durenzhe.com/*
 *://*.dushi0375.com/*
@@ -2929,6 +2933,7 @@
 *://*.eastmay.cn/*
 *://*.eastonhotel.cn/*
 *://*.eastwoodpaper.buzz/*
+*://*.eastwriting.com/*
 *://*.easyfootage.com/*
 *://*.easyrecoverychina.com/*
 *://*.eatash.com/*
@@ -5886,6 +5891,7 @@
 *://*.nv4sat.cn/*
 *://*.nvohcio.cn/*
 *://*.nvotent.cn/*
+*://*.nweon.com/*
 *://*.nwuja.com/*
 *://*.nwzx.cc/*
 *://*.nxk3.com/*
@@ -7016,10 +7022,12 @@
 *://*.shoubar.cn/*
 *://*.shoucangzx.com/*
 *://*.shoujifbb.com/*
+*://*.shoujishu.com/*
 *://*.shouldiremoveit.com/*
 *://*.shoulu6.com/*
 *://*.shoushu5551.cn/*
 *://*.show8d.com/*
+*://*.showmetech.com.br/*
 *://*.shrinktunnel.cn/*
 *://*.shrmwl.com/*
 *://*.shronghong.com/*
@@ -7918,6 +7926,7 @@
 *://*.v1cw96b.cn/*
 *://*.v28x0f0.cn/*
 *://*.v2athyh.cn/*
+*://*.v2ex.com/amp/*
 *://*.v4my0o4.cn/*
 *://*.v58ehd.cn/*
 *://*.v5v0.cn/*
@@ -8098,6 +8107,7 @@
 *://*.wangzhisai.com/*
 *://*.wanlansoft.cn/*
 *://*.wanniya.com/*
+*://*.wanshifu.com/*
 *://*.wantsad.com/*
 *://*.wanxi520.com/*
 *://*.wanzi163.com/*
@@ -8318,6 +8328,7 @@
 *://*.wopsgh.cn/*
 *://*.wordford.com/*
 *://*.wordpress.com/*
+*://*.workessay.com/*
 *://*.worldphim.com/*
 *://*.worldseries13.buzz/*
 *://*.worldtradeglobal.buzz/*
