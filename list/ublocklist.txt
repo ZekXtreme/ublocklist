@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2023-03-17 00:52:33
-# Total count: 13280
+# Version: 2023-03-18 00:51:07
+# Total count: 13287
 
 ! C&J Marketing
 ! Content Farm
@@ -218,6 +218,7 @@
 *://*.109912.com/*
 *://*.10fbbs.com/*
 *://*.10hrz79.cn/*
+*://*.10jqka.com.cn/*
 *://*.10kedou.com/*
 *://*.10p18o.cn/*
 *://*.10tsdg4.cn/*
@@ -2813,6 +2814,7 @@
 *://*.dormgoodies.buzz/*
 *://*.doufuuii.com/*
 *://*.dounaite.com/*
+*://*.douyin.com/zhuanti/*
 *://*.douyinluansha.cn/*
 *://*.dovov.com/*
 *://*.down.tech.sina.com.cn/*
@@ -3277,6 +3279,7 @@
 *://*.fofa.so/*
 *://*.folkculturebh.org/*
 *://*.folxchina.cn/*
+*://*.fonedog.com/*
 *://*.fonelab.com/*
 *://*.fonepaw.com/*
 *://*.food-week.ru/*
@@ -3729,6 +3732,7 @@
 *://*.gzhecha.com/*
 *://*.gzhlqy.com/*
 *://*.gzhsqs.com/*
+*://*.gzhttp.com/*
 *://*.gzhysh.com/*
 *://*.gzjtxf666.com/*
 *://*.gzjyhzx.com/*
@@ -6441,6 +6445,7 @@
 *://*.qingshi8.cn/*
 *://*.qingyunl.com/*
 *://*.qinianqing.com/*
+*://*.qiniu.com/qfans/*
 *://*.qiongbaba.net/*
 *://*.qiongwengc.cn/*
 *://*.qipaiyizi.easywin666.com/*
@@ -7534,6 +7539,7 @@
 *://*.tenglangvpn.com/*
 *://*.tengxinzs.com/*
 *://*.tenjiao.net/*
+*://*.tenorshare.cn/*
 *://*.tenorshare.com/*
 *://*.termicasolar.net/*
 *://*.test.jwxlschool.com/*
@@ -8044,6 +8050,7 @@
 *://*.vqtddz.cn/*
 *://*.vsb08zc.cn/*
 *://*.vsbuys.com/*
+*://*.vsdiffer.com/*
 *://*.vsgood.com/*
 *://*.vtiorio.com/*
 *://*.vtoyq.com/*
