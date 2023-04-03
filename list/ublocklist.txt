@@ -2,7 +2,7 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2023-04-02 00:51:09
+# Version: 2023-04-03 00:46:25
 # Total count: 13287
 
 ! C&J Marketing
