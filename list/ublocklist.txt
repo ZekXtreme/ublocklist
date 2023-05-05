@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2023-05-04 00:47:10
-# Total count: 13291
+# Version: 2023-05-05 00:43:18
+# Total count: 13292
 
 ! C&J Marketing
 ! Content Farm
@@ -13280,6 +13280,7 @@
 /falundafa\.+/
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
+@*://*.aws.amazon.com/*
 @*://*.tspweb.com/*
 https://huifu.wondershare.cn/repair/*
 title/.* - 小.(百科 | 知识) 网$/404: Not Found/.pinterest\.*/
