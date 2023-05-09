@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2023-05-08 00:45:33
-# Total count: 13292
+# Version: 2023-05-09 00:48:58
+# Total count: 13297
 
 ! C&J Marketing
 ! Content Farm
@@ -3987,6 +3987,7 @@
 *://*.hmyds.com/*
 *://*.hmyecrk.cn/*
 *://*.hnajbcj.cn/*
+*://*.hnce.org/*
 *://*.hndongda.com/*
 *://*.hnebook.com/*
 *://*.hnfangkeyi.com/*
@@ -4689,6 +4690,7 @@
 *://*.judongneng.com/*
 *://*.juejin.cn/s/*
 *://*.jueshi.in/*
+*://*.jugomobile.com/*
 *://*.juhebbs.com/*
 *://*.juhu123.com/*
 *://*.jujia9.com/*
@@ -7022,6 +7024,7 @@
 *://*.shopbn.cn/*
 *://*.shopee.com.my/*
 *://*.shopvil.com/*
+*://*.shopwtn.com/*
 *://*.shosjj.com/*
 *://*.shoubar.cn/*
 *://*.shoucangzx.com/*
@@ -7691,6 +7694,7 @@
 *://*.torrentz-proxy.com/*
 *://*.toudijia.com/*
 *://*.tousu.in/*
+*://*.toutiao.com/keyword/*
 *://*.toutiao.com/search/*
 *://*.toutiao.com/search?keyword=*
 *://*.toutiao.io/*
@@ -13281,6 +13285,7 @@
 /it-swarm.*/
 /m\.[\w]{5,6}\.[\w]{6,7}\.(?:site|vip).*/
 @*://*.aws.amazon.com/*
+@*://*.joyk.com/*
 @*://*.tspweb.com/*
 https://huifu.wondershare.cn/repair/*
 title/.* - 小.(百科 | 知识) 网$/404: Not Found/.pinterest\.*/
