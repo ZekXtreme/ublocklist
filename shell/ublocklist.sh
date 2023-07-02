@@ -15,10 +15,9 @@ curl -o i9.txt https://raw.githubusercontent.com/wdmpa/content-farm-list/main/uB
 curl -o i10.txt https://raw.githubusercontent.com/PRiMENON/uBlacklist/master/list.txt
 curl -o i11.txt https://raw.githubusercontent.com/mtgq/ublacklist-subscription/main/uBlacklist.txt
 curl -o i12.txt https://raw.githubusercontent.com/DivineEngine/uBlacklist/master/blacklist.txt
-curl -o i13.txt https://raw.githubusercontent.com/arosh/ublacklist-stackoverflow-translation/master/uBlacklist.txt
-curl -o i14.txt https://raw.githubusercontent.com/NotJustAHippo/ublacklist/main/sitestoblock.txt
-curl -o i15.txt https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt
-curl -o i16.txt https://raw.githubusercontent.com/lbydev/uBlacklist/master/blacklist.txt
+curl -o i13.txt https://raw.githubusercontent.com/NotJustAHippo/ublacklist/main/sitestoblock.txt
+curl -o i14.txt https://raw.githubusercontent.com/nonPointer/uBlacklist-Subscription/master/blacklist.txt
+curl -o i15.txt https://raw.githubusercontent.com/lbydev/uBlacklist/master/blacklist.txt
 
 # Start Merge and Duplicate Removal
 cat i*.txt > merge.txt
