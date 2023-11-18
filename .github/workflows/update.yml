@@ -1,0 +1,37 @@
+name: Update Rules
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'list/custom.txt'
+      - '.github/workflows/**'
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  run_shell:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main
+      - name: Update uBLOCKLIST
+        run: |
+          bash ./shell/ublocklist.sh
+      - name: Move files
+        run: |
+          cd shell
+          mv  ublocklist.txt  ../list
+      - name: Push assets to Github
+        run: |
+          git init
+          git config --local user.name "Github Action"
+          git config --local user.email "action@github.com"
+          git branch -m main
+          git add --all
+          git commit -m "Updated at $(date)"
+          git remote set-url origin git@github.com:zekxtreme/ublocklist.git
+          git push https://$USERNAME:$REPO_KEY@github.com/zekxtreme/ublocklist.git
+        env:
+          REPO_KEY: ${{ github.token }}
+          USERNAME: github-actions[bot]
+
+      
