@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2023-11-23 00:43:21
-# Total count: 11489
+# Version: 2023-11-24 00:42:13
+# Total count: 11491
 
 ! C&J Marketing
 ! Content Farm
@@ -5901,6 +5901,7 @@
 *://*.qyfjbh.com/*
 *://*.qyforum.com/*
 *://*.qyh8.cn/*
+*://*.qyyd5g.top/*
 *://*.qzatsfr.cn/*
 *://*.qzcrafts.com/*
 *://*.qzczd.com/*
@@ -8864,6 +8865,7 @@
 *://gitanswer.net/*
 *://giters.com/*
 *://github-wiki-see.page/*
+*://github.com/qyyd5g/*
 *://github.innominds.com/*
 *://github.laobiao.workers.dev/*
 *://githubhelp.com/*
