@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2024-01-01 00:48:46
-# Total count: 11491
+# Version: 2024-01-02 00:42:32
+# Total count: 11498
 
 ! C&J Marketing
 ! Content Farm
@@ -248,6 +248,7 @@
 *://*.159.138.37.243/*
 *://*.1594331.cn/*
 *://*.15lq.cn/*
+*://*.1637.com/*
 *://*.163bk.cn/*
 *://*.163jj.cn/*
 *://*.1681684.com/*
@@ -2077,6 +2078,7 @@
 *://*.cn7j.com/*
 *://*.cnbesing.com/*
 *://*.cnbjit.com/*
+*://*.cncyjm.com/*
 *://*.cndiling.com/*
 *://*.cndqhymh.com/*
 *://*.cndramae.com/*
@@ -2392,6 +2394,7 @@
 *://*.developreference.com/*
 *://*.devfgrt.com/*
 *://*.devicesfaq.com/*
+*://*.devicetests.com/*
 *://*.devk-agentur.buzz/*
 *://*.deyu1688.com/*
 *://*.dfjdtz.com/*
@@ -2490,6 +2493,7 @@
 *://*.dormgoodies.buzz/*
 *://*.doufuuii.com/*
 *://*.dounaite.com/*
+*://*.douyin.com/search/*
 *://*.douyin.com/zhuanti/*
 *://*.douyinluansha.cn/*
 *://*.dovov.com/*
@@ -3356,6 +3360,7 @@
 *://*.h8006.cn/*
 *://*.h9pq8wk.cn/*
 *://*.hacker66.me/*
+*://*.hackernews.cc/*
 *://*.hadosd.cn/*
 *://*.hah8.cn/*
 *://*.hahalei.com/*
@@ -6517,6 +6522,7 @@
 *://*.sthuaguan.com/*
 *://*.stiqsxf.cn/*
 *://*.stmhxqs.com/*
+*://*.storagereview.com/*
 *://*.structcalc.buzz/*
 *://*.student-version.com/*
 *://*.subaidajs.com/*
@@ -6526,6 +6532,7 @@
 *://*.sudr02u.cn/*
 *://*.sudu365.cn/*
 *://*.suesites.buzz/*
+*://*.sufangxu.cn/*
 *://*.suicgo.com/*
 *://*.suihejm.com/*
 *://*.suilingfd.com/*
