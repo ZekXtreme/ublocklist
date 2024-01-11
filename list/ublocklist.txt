@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2024-01-10 00:44:25
-# Total count: 11498
+# Version: 2024-01-11 00:44:47
+# Total count: 11511
 
 ! C&J Marketing
 ! Content Farm
@@ -1186,6 +1186,7 @@
 *://*.absolutequalitylimo.buzz/*
 *://*.abstriction.buzz/*
 *://*.academyagent.buzz/*
+*://*.acceler8x.space/*
 *://*.accentsgifts.buzz/*
 *://*.accidentlegalcenter.buzz/*
 *://*.accord-products.buzz/*
@@ -1355,6 +1356,7 @@
 *://*.androidcookie.com/*
 *://*.androidwd.cc/*
 *://*.anercn.com/*
+*://*.anewhpworld.com/*
 *://*.angelalbum.buzz/*
 *://*.anhuijuxin.com/*
 *://*.animalimmobilizer.buzz/*
@@ -1477,6 +1479,7 @@
 *://*.autonetonline.buzz/*
 *://*.autotimeit.buzz/*
 *://*.auuur.com/*
+*://*.auxilia.space/*
 *://*.avenuetosuccess.buzz/*
 *://*.avkoc33.cn/*
 *://*.avzwbiv.cn/*
@@ -1822,6 +1825,7 @@
 *://*.bush98.buzz/*
 *://*.businesstagtw.com/*
 *://*.buwoline.buzz/*
+*://*.buxcodes.org/*
 *://*.buyhomehub.cn/*
 *://*.bvmfh.top/*
 *://*.bwclkkh.cn/*
@@ -2009,6 +2013,7 @@
 *://*.chongwu.hk/*
 *://*.chq88.cn/*
 *://*.chqonline.com/*
+*://*.chromo.cfd/*
 *://*.chsou.cc/*
 *://*.chuanboye.com/*
 *://*.chuandaobj.com/*
@@ -2185,6 +2190,7 @@
 *://*.craffts.com/*
 *://*.craftswomyn.buzz/*
 *://*.crawley-haskins.buzz/*
+*://*.creatv.cfd/*
 *://*.creditnavi.buzz/*
 *://*.crf8.cn/*
 *://*.crgsne3.cn/*
@@ -3060,6 +3066,7 @@
 *://*.galleri50.com/*
 *://*.gameboys.net/*
 *://*.gamejs123.com/*
+*://*.gameonmac.com/*
 *://*.gamesxfp.cn/*
 *://*.gan-ren.com/*
 *://*.ganghuajl.com/*
@@ -3858,6 +3865,7 @@
 *://*.inkworker.com/*
 *://*.inndulgehotel.buzz/*
 *://*.innerloop-prod.buzz/*
+*://*.innovanti.online/*
 *://*.innxm.com/*
 *://*.installcrack.net/*
 *://*.int.bet/*
@@ -5140,6 +5148,7 @@
 *://*.neworldbj.com/*
 *://*.newsflashtv.buzz/*
 *://*.newyimin.com/*
+*://*.nexellia.online/*
 *://*.nextnets.buzz/*
 *://*.nf91.cn/*
 *://*.nfajasi.cn/*
@@ -5431,6 +5440,7 @@
 *://*.passionss.buzz/*
 *://*.passwordrecovery.cn/*
 *://*.patriknorstrom.buzz/*
+*://*.pavlovadoco.com/*
 *://*.paw7c6j.cn/*
 *://*.paypernude.buzz/*
 *://*.pbcpm.com/*
@@ -6034,6 +6044,7 @@
 *://*.roldanmc.buzz/*
 *://*.rollingfhr.xyz/*
 *://*.romancestop.buzz/*
+*://*.romonitorstats.com/*
 *://*.rongduansi.com/*
 *://*.ronghuipin.com/*
 *://*.rongyidagl.com/*
@@ -6063,6 +6074,7 @@
 *://*.rtg8.cn/*
 *://*.rtpslpa.cn/*
 *://*.rtr8.cn/*
+*://*.rtrack.social/*
 *://*.rtufyc.cn/*
 *://*.rtxmail.net/*
 *://*.rtz8.cn/*
@@ -6525,6 +6537,7 @@
 *://*.storagereview.com/*
 *://*.structcalc.buzz/*
 *://*.student-version.com/*
+*://*.stylesprzedazy.pl/*
 *://*.subaidajs.com/*
 *://*.sucaixi.com/*
 *://*.success666.com/*
