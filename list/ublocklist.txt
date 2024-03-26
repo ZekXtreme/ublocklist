@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2024-03-25 00:43:03
-# Total count: 11525
+# Version: 2024-03-26 00:41:42
+# Total count: 11529
 
 ! C&J Marketing
 ! Content Farm
@@ -2318,6 +2318,7 @@
 *://*.dafn.cc/*
 *://*.dafuhua.com/*
 *://*.dafx.cc/*
+*://*.daimafans.com/*
 *://*.daimajiaoliu.com/*
 *://*.daimaqa.com/*
 *://*.daimazxw.com/*
@@ -4593,6 +4594,7 @@
 *://*.linhwaa.com/*
 *://*.link4399.cn/*
 *://*.linksou.cc/*
+*://*.linuxpack.net/*
 *://*.linuxprobe.com/*
 *://*.linyuanfs.com/*
 *://*.liqijmg.com/*
@@ -7030,6 +7032,7 @@
 *://*.uk.com/*
 *://*.ukbu5pa.cn/*
 *://*.ukp76oa.cn/*
+*://*.ukplanking.com/*
 *://*.ulidc.com/*
 *://*.ulkhmiim.cn/*
 *://*.ultimate-communications.com/*
@@ -7780,6 +7783,7 @@
 *://*.xujianhong.com/*
 *://*.xujun.org/*
 *://*.xumanshu.com/*
+*://*.xunihao.org/*
 *://*.xunlongyb.com/*
 *://*.xuwmmlh.cn/*
 *://*.xvcoc.com/*
