@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2024-04-13 00:35:45
-# Total count: 9543
+# Version: 2024-04-14 00:54:50
+# Total count: 9555
 
 ! C&J Marketing
 ! Content Farm
@@ -738,6 +738,7 @@
 *://*.543dy.cn/*
 *://*.54496.cn/*
 *://*.54gsl.com/*
+*://*.54site.com/*
 *://*.55276.net/*
 *://*.55468z8.cn/*
 *://*.555.gd/*
@@ -2053,6 +2054,9 @@
 *://*.cl1s6eh.cn/*
 *://*.cl2p5nn.cn/*
 *://*.clairvoyantsoftware.buzz/*
+*://*.clashmac.com/*
+*://*.clashnode.xyz/*
+*://*.clashx.pro/*
 *://*.clay-county.buzz/*
 *://*.cldh8.com/*
 *://*.clearday.cn/*
@@ -3680,6 +3684,7 @@
 *://*.huanwin.com/*
 *://*.huaqiang168.cn/*
 *://*.huataiok.com/*
+*://*.huaweicloud.com/zhishi/*
 *://*.huaxing198.com/*
 *://*.huayuanme.com/*
 *://*.huayuejx88.com/*
@@ -4136,6 +4141,7 @@
 *://*.joecomp.com/*
 *://*.jogon.cn/*
 *://*.johnmurraysr.buzz/*
+*://*.jointxperts.com/*
 *://*.jojon.cn/*
 *://*.jokerhuman.com/*
 *://*.jokestoyou.buzz/*
@@ -4837,6 +4843,7 @@
 *://*.mavupzk.cn/*
 *://*.maww.cc/*
 *://*.maximuum.com/*
+*://*.mb-intendance.com/*
 *://*.mbezdv.cn/*
 *://*.mbme-tr.buzz/*
 *://*.mcaren.com/*
@@ -6308,6 +6315,7 @@
 *://*.shichenghb.com/*
 *://*.shihuishuo.com/*
 *://*.shijiaxiang.cn/*
+*://*.shijiyin.com/*
 *://*.shikin-support.buzz/*
 *://*.shimaozs.com/*
 *://*.shipinyg.com/*
@@ -7152,6 +7160,7 @@
 *://*.vipaid.cn/*
 *://*.vipdailian.com/*
 *://*.virtualtoke.buzz/*
+*://*.visit-kamnik.com/*
 *://*.visit99.buzz/*
 *://*.visitnetherland.buzz/*
 *://*.visualxxx.buzz/*
@@ -7779,6 +7788,7 @@
 *://*.xumanshu.com/*
 *://*.xunihao.org/*
 *://*.xunlongyb.com/*
+*://*.xuv.cc/*
 *://*.xuwmmlh.cn/*
 *://*.xvcoc.com/*
 *://*.xvdh3p.cn/*
@@ -8519,6 +8529,7 @@
 *://blacksprocket.com/*
 *://bleepcoder.com/*
 *://blog.csdn.net/holybin/*
+*://blog.csdn.net/netgc/*
 *://blog.csdn.net/weixin_35909238/*
 *://bloomingtonventures.com/*
 *://book.jd.com/publish/Search?*
@@ -9044,6 +9055,7 @@
 *://www.chinavolcan.com/*
 *://www.chinawenwang.com/*
 *://www.cmuswe.com/*
+*://www.cnblogs.com/sysin/*
 *://www.cnqlk.com/*
 *://www.cnshhbs.com/*
 *://www.cocoachina.com/*
