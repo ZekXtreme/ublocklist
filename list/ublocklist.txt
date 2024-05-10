@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2024-05-09 00:43:56
-# Total count: 9563
+# Version: 2024-05-10 00:43:42
+# Total count: 9567
 
 ! C&J Marketing
 ! Content Farm
@@ -1082,6 +1082,7 @@
 *://*.95eo.com/*
 *://*.971700.com/*
 *://*.973web.buzz/*
+*://*.97444.cn/*
 *://*.975hus.cn/*
 *://*.97hs.com/*
 *://*.97oxford.buzz/*
@@ -1522,6 +1523,7 @@
 *://*.badosi.com/*
 *://*.baibeisc.com/*
 *://*.baicaisd.com/*
+*://*.baidu.com/*
 *://*.baidu.com/s?word=*
 *://*.baifusy.com/*
 *://*.baike6.com/*
@@ -3851,6 +3853,7 @@
 *://*.ikz0wke.cn/*
 *://*.ilandrover.com/*
 *://*.ilike109.com/*
+*://*.ilovewechat.com/*
 *://*.ilueu.cn/*
 *://*.ilzhrmn.cn/*
 *://*.im1pxi.cn/*
@@ -6307,6 +6310,7 @@
 *://*.shengyis.com/*
 *://*.shenkehan.com/*
 *://*.shenlisy.com/*
+*://*.shenlongbbs.com/*
 *://*.shenmedaquan.com/*
 *://*.shenmedouyou.xyz/*
 *://*.shenyun.com/*
