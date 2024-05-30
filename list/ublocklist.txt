@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2024-05-29 00:50:13
-# Total count: 9566
+# Version: 2024-05-30 00:45:34
+# Total count: 9567
 
 ! C&J Marketing
 ! Content Farm
@@ -2503,6 +2503,7 @@
 *://*.dongmansoft.com/*
 *://*.dongtaiwang.com/*
 *://*.dormgoodies.buzz/*
+*://*.doubao.com/*
 *://*.doufuuii.com/*
 *://*.dounaite.com/*
 *://*.douyin.com/search/*
