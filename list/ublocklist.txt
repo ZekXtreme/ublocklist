@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2025-02-23 01:01:46
-# Total count: 9217
+# Version: 2025-02-24 00:59:27
+# Total count: 9222
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -9175,6 +9175,7 @@
 *://zhujicankao.com/*
 *://zidao.baidu.com/search?*
 *://zs12.hbs163.com/*
+---
 /(?:.*\.){0,1}[\d]{4}[a-z0-9]{5}\.com\.cn/
 /(?:www.)[a-z]{2,3}[0-9]{2,3}\.com/
 /(?:www\.){0,1}www[\-]*[\w]{4,8}\.com/
@@ -9209,7 +9210,10 @@
 @*://*.aws.amazon.com/*
 @*://*.joyk.com/*
 @*://*.tspweb.com/*
+description: A uBlacklist blocklist to remove Pinterest from your search results.
+homepage: https://github.com/rjaus/ublacklist-pinterest
 https://huifu.wondershare.cn/repair/*
+name: uBlacklist Pinterest basic list
 title/.*Q微同号/
 title/.*\- app下载(手机|可?提现|安卓|android)版.*/
 title/.*\s-\s.*知识网/
@@ -9221,3 +9225,4 @@ title/.*【一键访问国外网站】/
 title/.*【点击一次就可以出国】/
 title/.*有限公司官网/
 404: Not Found404: Not Found*://*.example.com/*404: Not Found*://code-examples.net/*
+404: Not Found404: Not Found---
