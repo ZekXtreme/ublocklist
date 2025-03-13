@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2025-03-12 00:59:24
-# Total count: 9223
+# Version: 2025-03-13 01:00:23
+# Total count: 9225
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -7989,6 +7989,7 @@
 *://*.zijqabf.cn/*
 *://*.zisenvren.com/*
 *://*.ziyouzhanshi.cn/*
+*://*.ziyuanlm.com/*
 *://*.ziyuzhilian.cn/*
 *://*.zj3kbg.cn/*
 *://*.zj4u.cn/*
@@ -8260,6 +8261,7 @@
 *://dealschief.com/*
 *://dealspotr.com/*
 *://detail.zol.com.cn/*
+*://developer.aliyun.com/*
 *://developer.aliyun.com/articlezt/*
 *://digitrain.ru/*
 *://digwow.net/*
