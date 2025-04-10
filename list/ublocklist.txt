@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2025-04-09 01:02:01
-# Total count: 9226
+# Version: 2025-04-10 01:02:06
+# Total count: 9228
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -2654,6 +2654,7 @@
 *://*.express.co.uk/*
 *://*.extrabux.com/*
 *://*.extreme-mac.buzz/*
+*://*.eyewated.com/*
 *://*.eyuth.com/*
 *://*.eyxgwpt.cn/*
 *://*.ezerm.cn/*
@@ -8651,6 +8652,7 @@
 *://www.800400.net/*
 *://www.809505.com/*
 *://www.80caijing.com/*
+*://www.8682.cc/*
 *://www.912688.com/*
 *://www.92aliyun.com/*
 *://www.9999ktv.com/*
