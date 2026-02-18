@@ -2,7 +2,7 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-02-17 01:27:21
+# Version: 2026-02-18 01:42:09
 # Total count: 9229
 
 *://*.001553.cn/*
