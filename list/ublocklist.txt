@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-03-16 01:50:47
-# Total count: 8952
+# Version: 2026-03-17 01:27:32
+# Total count: 8948
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -3835,7 +3835,6 @@
 *://*.jieshikj.com/*
 *://*.jietouxzz.com/*
 *://*.jiewanju.com/*
-*://*.jifengba.com/*
 *://*.jifutang68.com/*
 *://*.jijisf.com/*
 *://*.jike.in/*
@@ -4130,7 +4129,6 @@
 *://*.kingsman8.com/*
 *://*.kingstayhotel.cn/*
 *://*.kingtaisei.com/*
-*://*.kissbaidu.com/*
 *://*.kisyou.cn/*
 *://*.kitelinef.com/*
 *://*.kittiss.cn/*
@@ -8543,7 +8541,6 @@
 *://www.csmayi.cn/*
 *://www.ctolib.com/*
 *://www.cuplayer.com/*
-*://www.cxyzjd.com/*
 *://www.czgeek.com/*
 *://www.da-quan.net/*
 *://www.daihema.com/*
@@ -8655,7 +8652,6 @@
 *://www.jsxbbyq.com/*
 *://www.juxiu.net/*
 *://www.kakatongmeng.net/*
-*://www.kissbaidu.com/*
 *://www.kutombawewe.net/*
 *://www.kutu66.com/*
 *://www.lagou.com/lgeduarticle/*
