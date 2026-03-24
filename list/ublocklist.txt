@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-03-23 01:44:48
-# Total count: 8948
+# Version: 2026-03-24 01:25:10
+# Total count: 8943
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -3654,7 +3654,6 @@
 *://*.imacso.com/*
 *://*.imageinfo.cn/*
 *://*.imagina-tech.buzz/*
-*://*.imaycon.com/*
 *://*.imccar.com/*
 *://*.imengstar.com/*
 *://*.imooc.com/wenda/*
@@ -6941,7 +6940,6 @@
 *://*.weinblattfamily.buzz/*
 *://*.weishengjkk.com/*
 *://*.weitt.cc/*
-*://*.weivb.com/*
 *://*.weixingrand15.cn/*
 *://*.weixunhl.com/*
 *://*.weiyu99.com/*
@@ -8244,7 +8242,6 @@
 *://m.copyan.com/*
 *://m.daihema.com/*
 *://m.fengli.com/*
-*://m.fofama.com/*
 *://m.freebuf.com/*
 *://m.fy35.com/*
 *://m.iask.sina.com.cn/*
@@ -8442,7 +8439,6 @@
 *://www.4561234.com/*
 *://www.4k8k.xyz/*
 *://www.4pee.com/*
-*://www.501776.com/*
 *://www.511477.com/*
 *://www.513210.com/*
 *://www.51dongshi.com/*
@@ -8796,7 +8792,6 @@
 *://www.tuocheng.cc/*
 *://www.twblogs.net/*
 *://www.twoeggz.com/*
-*://www.txjingyi.com/*
 *://www.u9h.com/*
 *://www.ukassignment.org/*
 *://www.ukthesis.org/*
