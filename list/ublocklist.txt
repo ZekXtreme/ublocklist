@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-04-06 01:54:20
-# Total count: 8941
+# Version: 2026-04-07 01:50:45
+# Total count: 8936
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -5821,7 +5821,6 @@
 *://*.s84sz06.cn/*
 *://*.s8h4bp7.cn/*
 *://*.s8zo23x.cn/*
-*://*.sa123.cc/*
 *://*.sa5f8o7.cn/*
 *://*.saasworthy.com/*
 *://*.sab-riga.buzz/*
@@ -8502,7 +8501,6 @@
 *://www.carousell.com.hk/*
 *://www.cashbackbest.com/*
 *://www.cbedai.net/*
-*://www.ccddzlq.com/*
 *://www.cctsuzhou.cn/*
 *://www.chaoju.com/*
 *://www.chepinnet.com/*
@@ -8599,7 +8597,6 @@
 *://www.hanlefang.net/*
 *://www.haoecn.com/*
 *://www.harngtong.url.tw/*
-*://www.hcgtx.com/*
 *://www.heibai.org/*
 *://www.hello.so/*
 *://www.helplib.cn/*
@@ -8650,7 +8647,6 @@
 *://www.kutu66.com/*
 *://www.lagou.com/lgeduarticle/*
 *://www.lansingip.com/*
-*://www.lanzhouyangsheng.com/*
 *://www.lanzhouzaixian.cn/*
 *://www.lightspeedtrucking.com/*
 *://www.linuxboy.net/*
@@ -8761,7 +8757,6 @@
 *://www.sldfc.cn/*
 *://www.smpchome.com/*
 *://www.sociablelabs.com/*
-*://www.sodeog.com/*
 *://www.softwarevouchers.com/*
 *://www.sohu.com/a/*
 *://www.sojson.com/blog/*
