@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-04-13 02:02:52
-# Total count: 8936
+# Version: 2026-04-14 01:57:12
+# Total count: 8929
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -2035,7 +2035,6 @@
 *://*.comdevtech.buzz/*
 *://*.comparitech.com/*
 *://*.compmemory.buzz/*
-*://*.compozi.com/*
 *://*.compraguapa.buzz/*
 *://*.compsuccess.com/*
 *://*.computerjobbank.buzz/*
@@ -4617,7 +4616,6 @@
 *://*.medistaryn.com/*
 *://*.medium.com/*
 *://*.medmalrx.com/*
-*://*.meetthebookworld.com/*
 *://*.mefdjl.cn/*
 *://*.mefj.com.cn/*
 *://*.mehanltd.buzz/*
@@ -8156,7 +8154,6 @@
 *://flyzyblog.net/*
 *://fmihm.org/*
 *://fullstackuser.com/*
-*://fyf.wx-wx.net/*
 *://g.penzai.com/*
 *://ggchewl.com/*
 *://giskaa.com/*
@@ -8429,7 +8426,6 @@
 *://www.360buyserver.com/*
 *://www.360doc.com/*
 *://www.360kuai.com/*
-*://www.365shenbo.com/*
 *://www.39qq.com/*
 *://www.3gsu.com/*
 *://www.3li.cc/*
@@ -8607,7 +8603,6 @@
 *://www.hotbak.net/*
 *://www.hotdealcode.com/*
 *://www.hotdeals.com/*
-*://www.hotessay.net/*
 *://www.hq396.com/*
 *://www.hsjl5821808.com/*
 *://www.hsjtjz.com/*
@@ -8706,12 +8701,10 @@
 *://www.ping-jia.net/*
 *://www.pinlue.com/*
 *://www.pinterest.com/*
-*://www.pnstudy.com/*
 *://www.price.com.hk/*
 *://www.programmersought.com/*
 *://www.promocodefriend.com/*
 *://www.promotionalcodes.io/*
-*://www.ptzxc.com/*
 *://www.q578.com/*
 *://www.qcnsw.com/*
 *://www.qedev.com/*
