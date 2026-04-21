@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-04-20 02:03:10
-# Total count: 8929
+# Version: 2026-04-21 01:59:03
+# Total count: 8922
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -3204,7 +3204,6 @@
 *://*.handformkeramik.buzz/*
 *://*.handfreecn.com/*
 *://*.hani1688.com/*
-*://*.hanjifoods.com/*
 *://*.hanzhiedu.com/*
 *://*.hanzhongqc.com/*
 *://*.hanzhongtb.com/*
@@ -4342,7 +4341,6 @@
 *://*.libertyquiltshop.buzz/*
 *://*.libhunt.com/*
 *://*.libinlipin.com/*
-*://*.licenseapps.com/*
 *://*.lichengjk.com/*
 *://*.lidasen.cn/*
 *://*.lidemeifu.com/*
@@ -4960,7 +4958,6 @@
 *://*.nonrcjh.cn/*
 *://*.noodv.com/*
 *://*.norcomits.buzz/*
-*://*.nordvpnblog.com/*
 *://*.notebookcheck-cn.com/*
 *://*.novbox.buzz/*
 *://*.npidjma.cn/*
@@ -6594,7 +6591,6 @@
 *://*.tvxzb0q.cn/*
 *://*.twd8.cn/*
 *://*.tweaklibrary.com/*
-*://*.twfeq.com/*
 *://*.twikor.cn/*
 *://*.twjpytg.com/*
 *://*.twm8.cn/*
@@ -8420,7 +8416,6 @@
 *://www.23cpc.com/*
 *://www.2616.com.cn/*
 *://www.295a.com/*
-*://www.3062.net.cn/*
 *://www.329329.com/*
 *://www.32r.com/*
 *://www.360buyserver.com/*
@@ -8465,7 +8460,6 @@
 *://www.aliyunyh.com/*
 *://www.amcpp.com/*
 *://www.amhnn.com/*
-*://www.amzkd.cn/*
 *://www.ancii.com/*
 *://www.anfensi.com/*
 *://www.anhuilife.com/*
@@ -8722,7 +8716,6 @@
 *://www.qxqpw.net/*
 *://www.r41z.com/*
 *://www.rejoiceblog.com/*
-*://www.rghn.com.cn/*
 *://www.right.com.cn/FORUM/search.php?*
 *://www.ruan8.com/*
 *://www.ruiwen.com/*
