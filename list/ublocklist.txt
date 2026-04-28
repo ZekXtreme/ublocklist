@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-04-27 02:07:28
-# Total count: 8922
+# Version: 2026-04-28 02:13:42
+# Total count: 8914
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -795,7 +795,6 @@
 *://*.62az.cn/*
 *://*.62veuu.cn/*
 *://*.634001.com/*
-*://*.63458799.com/*
 *://*.63458cp.com/*
 *://*.6351juanchi.cn/*
 *://*.635df.cn/*
@@ -5513,7 +5512,6 @@
 *://*.qifuxuan.com/*
 *://*.qikan519.com/*
 *://*.qilin668.com/*
-*://*.qingdaosailing.com/*
 *://*.qingkeyy.com/*
 *://*.qingshi8.cn/*
 *://*.qingyunl.com/*
@@ -7549,7 +7547,6 @@
 *://*.yinxwl.cn/*
 *://*.yinyids.com/*
 *://*.yinzaoan.cn/*
-*://*.yinzdian.com/*
 *://*.yipinkirin.com/*
 *://*.yipinrong.com/*
 *://*.yiqianzhao.com/*
@@ -8019,7 +8016,6 @@
 *://*/so.php?s=*
 *://*/so/*
 *://0xzx.com/*
-*://170068.com/*
 *://18.141.160.82/*
 *://1cm8858.com/*
 *://26ch.com/*
@@ -8368,7 +8364,6 @@
 *://teddit.ggc-project.de/*
 *://teranews.net/*
 *://teratas-movietv.over-blog.com/*
-*://thevpn.shop/*
 *://thewikihow.com/*
 *://tjshuju.com/*
 *://top.chinaz.com/*
@@ -8456,7 +8451,6 @@
 *://www.aiskycn.com/*
 *://www.ajpsp.com/*
 *://www.aliyun.com/*
-*://www.aliyundjq.cn/*
 *://www.aliyunyh.com/*
 *://www.amcpp.com/*
 *://www.amhnn.com/*
@@ -8642,7 +8636,6 @@
 *://www.linuxfixes.com/*
 *://www.linxia930.com/*
 *://www.linyuhui.net/*
-*://www.lngyy.com/*
 *://www.loc.pp.ua/*
 *://www.lohine.com/*
 *://www.lovediscountvouchers.co.uk/*
@@ -8828,7 +8821,6 @@
 *://www.yiper.org/*
 *://www.yixinit.com/*
 *://www.yiyisoft.com/*
-*://www.yiyult.com/*
 *://www.ylfjs.com/*
 *://www.youchuang365.com/*
 *://www.youzhanlu.com/*
