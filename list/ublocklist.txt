@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-05-04 02:10:48
-# Total count: 8914
+# Version: 2026-05-05 02:09:10
+# Total count: 8908
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -2801,7 +2801,6 @@
 *://*.foxnewssouthtexas.com/*
 *://*.fp48blj.cn/*
 *://*.fpj88.cn/*
-*://*.fpppw.com/*
 *://*.fpxinmeng.com/*
 *://*.fqf8.cn/*
 *://*.fqhggcq.cn/*
@@ -4944,7 +4943,6 @@
 *://*.nmgjjjx.com/*
 *://*.nmhsp.com/*
 *://*.nms88.cn/*
-*://*.nmxjp.com/*
 *://*.nnpq8dx.cn/*
 *://*.nntianhai.com/*
 *://*.no54hagleyroad.buzz/*
@@ -8393,7 +8391,6 @@
 *://wikidiff.com/*
 *://windowsbulletin.com/*
 *://wntzx.cn/*
-*://workit.cc/*
 *://world.taobao.com/*
 *://wpsousuo.cn/*
 *://www.010xww.com/*
@@ -8420,7 +8417,6 @@
 *://www.3gsu.com/*
 *://www.3li.cc/*
 *://www.4561234.com/*
-*://www.4k8k.xyz/*
 *://www.4pee.com/*
 *://www.511477.com/*
 *://www.513210.com/*
@@ -8521,7 +8517,6 @@
 *://www.da-quan.net/*
 *://www.daihema.com/*
 *://www.dama123.com/*
-*://www.dayueng.cn/*
 *://www.ddooo.com/*
 *://www.ddpei.com/*
 *://www.dealmecoupon.com/*
@@ -8630,7 +8625,6 @@
 *://www.kutu66.com/*
 *://www.lagou.com/lgeduarticle/*
 *://www.lansingip.com/*
-*://www.lanzhouzaixian.cn/*
 *://www.lightspeedtrucking.com/*
 *://www.linuxboy.net/*
 *://www.linuxfixes.com/*
