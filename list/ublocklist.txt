@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-05-25 02:47:28
-# Total count: 8905
+# Version: 2026-05-26 02:36:06
+# Total count: 8904
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -8346,7 +8346,6 @@
 *://stackguides.com/*
 *://stackoom.com/*
 *://stackovergo.com/*
-*://stackovernet.xyz/*
 *://stackoverrun.com/*
 *://stackscn.com/*
 *://sunnews.cc/*
