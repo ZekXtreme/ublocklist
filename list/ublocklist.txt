@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-06-01 02:56:40
-# Total count: 8904
+# Version: 2026-06-02 02:53:39
+# Total count: 8900
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1794,7 +1794,6 @@
 *://*.caiyuegift.com/*
 *://*.cakemaster.cn/*
 *://*.calyxcare.buzz/*
-*://*.camlya.com/*
 *://*.campcodes.com/*
 *://*.campuslifeline.buzz/*
 *://*.candhdistributors.buzz/*
@@ -1892,7 +1891,6 @@
 *://*.chashidai.cn/*
 *://*.chatel-taxi.buzz/*
 *://*.chattaboo.com/*
-*://*.chcpd.com/*
 *://*.cheap-smoke.buzz/*
 *://*.cheapaprtments.buzz/*
 *://*.chechetun.com/*
@@ -3305,7 +3303,6 @@
 *://*.hexielaw.com/*
 *://*.heyloadsmmkr.ru.com/*
 *://*.heyuanheng.com/*
-*://*.hezhisw.com/*
 *://*.hezs88.com/*
 *://*.hfaedkp.cn/*
 *://*.hfaocm.com/*
@@ -3977,7 +3974,6 @@
 *://*.judongneng.com/*
 *://*.juejin.cn/s/*
 *://*.jugomobile.com/*
-*://*.juhebbs.com/*
 *://*.jukangsw.com/*
 *://*.julx.cn/*
 *://*.jumeistone.com/*
