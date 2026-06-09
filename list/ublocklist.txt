@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-06-08 02:54:41
-# Total count: 8900
+# Version: 2026-06-09 02:32:10
+# Total count: 8898
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -8064,7 +8064,6 @@
 *://book.jd.com/publish/Search?*
 *://brd2a.com/*
 *://briteming.blogspot.com/*
-*://brrmn.com/*
 *://bug200.com/*
 *://bynss.com/*
 *://c.lanmit.com/*
@@ -8181,7 +8180,6 @@
 *://itectec.com/*
 *://item.jd.com/*
 *://itigic.com/*
-*://jhsjtxx.com/*
 *://jinan110.com/*
 *://js.wszjl.com/*
 *://jtuto.com/*
