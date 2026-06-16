@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-06-15 03:29:57
-# Total count: 8898
+# Version: 2026-06-16 03:26:42
+# Total count: 8891
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1444,7 +1444,6 @@
 *://*.ayrxwz.com/*
 *://*.aytx999.com/*
 *://*.ayustyle.com/*
-*://*.ayxbwy.com/*
 *://*.az88mqq.cn/*
 *://*.azfx.cc/*
 *://*.azhahf.com/*
@@ -1688,7 +1687,6 @@
 *://*.boe4ayz.cn/*
 *://*.bohaijixie.com/*
 *://*.bohao5266.cn/*
-*://*.bohlsenpr.com/*
 *://*.boilgame.com/*
 *://*.bokeehome.cn/*
 *://*.bolieyun.com/*
@@ -2994,7 +2992,6 @@
 *://*.glassfibre.cn/*
 *://*.glcq55s.cn/*
 *://*.gldplus.com/*
-*://*.gldq123.com/*
 *://*.glehe.com/*
 *://*.glh5770.com/*
 *://*.glhsmm.com/*
@@ -5017,7 +5014,6 @@
 *://*.oasisbanquet.buzz/*
 *://*.oayjgxt.cn/*
 *://*.oaz7k8r.cn/*
-*://*.obagua.com/*
 *://*.obeqhdy.cn/*
 *://*.obftzgh.cn/*
 *://*.objetspubricard.buzz/*
@@ -8696,7 +8692,6 @@
 *://www.right.com.cn/FORUM/search.php?*
 *://www.ruan8.com/*
 *://www.ruiwen.com/*
-*://www.runsem.com/*
 *://www.ruten.com.tw/*
 *://www.saashub.com/*
 *://www.saasworthy.com/*
@@ -8735,7 +8730,6 @@
 *://www.taoshudang.com/*
 *://www.tastones.com/*
 *://www.techbang.com/*
-*://www.teipy.com/*
 *://www.thinbug.com/*
 *://www.tiandynasty.cn/*
 *://www.tl80.cn/*
@@ -8776,7 +8770,6 @@
 *://www.west.cn/docs/*
 *://www.whatisapromocode.com/*
 *://www.win10xiazai.com/*
-*://www.witdroid.com/*
 *://www.wnt777.com/*
 *://www.wolonge.com/*
 *://www.wordlm.com/*
