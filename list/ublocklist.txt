@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-06-29 02:48:35
-# Total count: 8891
+# Version: 2026-06-30 02:42:46
+# Total count: 8887
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -3751,7 +3751,6 @@
 *://*.jamyi.com/*
 *://*.javacodeqa.cc/*
 *://*.javaer101.com/*
-*://*.javaroad.cn/*
 *://*.javashuo.com/*
 *://*.javazhiyin.com/*
 *://*.jaweno.com/*
@@ -5400,7 +5399,6 @@
 *://*.pyax021.cn/*
 *://*.pyk696.com/*
 *://*.pyk868.com/*
-*://*.pyn9.com/*
 *://*.pythontechworld.com/*
 *://*.pythonwd.com/*
 *://*.pzdyj.com/*
@@ -6924,7 +6922,6 @@
 *://*.weiyuncity.com/*
 *://*.wekie.cn/*
 *://*.wellren.com/*
-*://*.wenbf.com/*
 *://*.wenduyun.com/*
 *://*.wenlongkm.com/*
 *://*.westack.live/*
@@ -8157,7 +8154,6 @@
 *://herexjabar.over-blog.com/*
 *://hk.uwenku.com/*
 *://homiemall.com/*
-*://hz-heng-li.com/*
 *://hzhcontrols.com/*
 *://iask.sina.com.cn/*
 *://iknow.baidu.com/search?word=*
