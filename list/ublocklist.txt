@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-07-06 02:32:40
-# Total count: 8887
+# Version: 2026-07-07 02:28:09
+# Total count: 8885
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -6492,7 +6492,6 @@
 *://*.tokopedia.com/*
 *://*.tokp2wz.cn/*
 *://*.tokyominer.com/*
-*://*.tomzx.com/*
 *://*.tongbu.com/*
 *://*.tonghejiu.com/*
 *://*.tongpixie.com/*
@@ -8429,7 +8428,6 @@
 *://www.aiskycn.com/*
 *://www.ajpsp.com/*
 *://www.aliyun.com/*
-*://www.aliyunyh.com/*
 *://www.amcpp.com/*
 *://www.amhnn.com/*
 *://www.ancii.com/*
