@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-07-13 02:05:36
-# Total count: 8885
+# Version: 2026-07-14 01:51:14
+# Total count: 8882
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1888,7 +1888,6 @@
 *://*.chaosou.cc/*
 *://*.chashidai.cn/*
 *://*.chatel-taxi.buzz/*
-*://*.chattaboo.com/*
 *://*.cheap-smoke.buzz/*
 *://*.cheapaprtments.buzz/*
 *://*.chechetun.com/*
@@ -8372,7 +8371,6 @@
 *://who-called-de.com/*
 *://wikidiff.com/*
 *://windowsbulletin.com/*
-*://wntzx.cn/*
 *://world.taobao.com/*
 *://wpsousuo.cn/*
 *://www.010xww.com/*
@@ -8728,7 +8726,6 @@
 *://www.tiandynasty.cn/*
 *://www.tl80.cn/*
 *://www.tmall.com/*
-*://www.tonganw.com/*
 *://www.tongfengqu.com/*
 *://www.tpyyes.com/*
 *://www.trust1688.com/*
