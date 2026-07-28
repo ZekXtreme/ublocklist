@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-07-27 02:13:19
-# Total count: 8879
+# Version: 2026-07-28 01:54:03
+# Total count: 8870
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -744,7 +744,6 @@
 *://*.586nwh.cn/*
 *://*.588c2ts.cn/*
 *://*.58efu.com/*
-*://*.58hengqi.com/*
 *://*.58huangye.com/*
 *://*.58minglu.cn/*
 *://*.58pla.com/*
@@ -5894,7 +5893,6 @@
 *://*.sdtietong.com/*
 *://*.sduqyxv.cn/*
 *://*.sdxinjia.com/*
-*://*.sdxinli.org/*
 *://*.sdyujinji.com/*
 *://*.seaofredinc.buzz/*
 *://*.sebina2006.cn/*
@@ -6134,7 +6132,6 @@
 *://*.sqn8.cn/*
 *://*.sqp.buzz/*
 *://*.squadguide.net/*
-*://*.sqzlsy.cn/*
 *://*.sr0csj.cn/*
 *://*.sr0lsgr.cn/*
 *://*.sr1490.com/*
@@ -8398,7 +8395,6 @@
 *://www.513210.com/*
 *://www.51dongshi.com/*
 *://www.52book.me/*
-*://www.54jqr.com/*
 *://www.5577.com/*
 *://www.55jf.com/*
 *://www.565k.com/*
@@ -8642,7 +8638,6 @@
 *://www.offers.com/*
 *://www.ojit.com/*
 *://www.ok168198.com/*
-*://www.oneho.cn/*
 *://www.orcode.com/*
 *://www.padh.net/*
 *://www.paloma.cn/*
@@ -8652,7 +8647,6 @@
 *://www.pconline.com.cn/3g/*
 *://www.pconline.com.cn/other_pic*
 *://www.pcpc.me/*
-*://www.phoenixups.com/*
 *://www.pianshen.com/*
 *://www.ping-jia.net/*
 *://www.pinlue.com/*
@@ -8671,12 +8665,10 @@
 *://www.qq366.cn/*
 *://www.qqtn.com/*
 *://www.qqxmail.com/*
-*://www.qtcamp.com/*
 *://www.quanmaimai.com/*
 *://www.quanmama.com/*
 *://www.querythreads.com/*
 *://www.qxqpw.net/*
-*://www.r41z.com/*
 *://www.rejoiceblog.com/*
 *://www.right.com.cn/FORUM/search.php?*
 *://www.ruan8.com/*
@@ -8812,7 +8804,6 @@
 *://www.zrahh.com/*
 *://www.zybashi.com/*
 *://www.zzchenhui.com/*
-*://x4x2.com/*
 *://xstack.us/*
 *://xsyfs.com/*
 *://xuexi.zqnf.com/*
