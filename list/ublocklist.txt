@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-08-17 00:51:06
-# Total count: 8857
+# Version: 2026-08-18 00:49:51
+# Total count: 8855
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -7136,7 +7136,6 @@
 *://*.x9l9lv.cn/*
 *://*.xa8.net/*
 *://*.xabbt.com/*
-*://*.xagrtx.com/*
 *://*.xagtfqw.com/*
 *://*.xajgjz.com/*
 *://*.xameiwo.com/*
@@ -8744,7 +8743,6 @@
 *://www.wywb0818.com/*
 *://www.x64pro.com/*
 *://www.xddv.com/*
-*://www.xhsdzjys.com/*
 *://www.xia3.com/*
 *://www.xiandai2012.com/*
 *://www.xiaoheidiannao.com/*
