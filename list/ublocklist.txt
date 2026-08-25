@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-08-24 00:52:19
-# Total count: 8855
+# Version: 2026-08-25 00:51:59
+# Total count: 8852
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -8479,8 +8479,6 @@
 *://www.czgeek.com/*
 *://www.da-quan.net/*
 *://www.daihema.com/*
-*://www.dama123.com/*
-*://www.ddooo.com/*
 *://www.ddpei.com/*
 *://www.dealmecoupon.com/*
 *://www.dealscove.com/*
@@ -8705,7 +8703,6 @@
 *://www.tmall.com/*
 *://www.tongfengqu.com/*
 *://www.tpyyes.com/*
-*://www.trust1688.com/*
 *://www.tspweb.com/*
 *://www.tuocheng.cc/*
 *://www.twblogs.net/*
