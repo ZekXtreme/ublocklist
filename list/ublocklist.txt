@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-08-31 02:49:58
-# Total count: 8852
+# Version: 2026-09-01 02:59:24
+# Total count: 8846
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -6159,7 +6159,6 @@
 *://*.star0s.com/*
 *://*.starterstory.com/*
 *://*.state-savings.buzz/*
-*://*.statestpizza.com/*
 *://*.stayhomebiz.buzz/*
 *://*.stclairsupply.buzz/*
 *://*.stcymy.cn/*
@@ -8068,7 +8067,6 @@
 *://codeutility.org/*
 *://codingdict.com/*
 *://cont.jd.com/*
-*://contactnumbers.buzz/*
 *://copyfuture.com/*
 *://copyprogramming.com/*
 *://coupbox.com/*
@@ -8181,7 +8179,6 @@
 *://list.suning.com/*
 *://liuxue.xdf.cn/*
 *://living-sun.com/*
-*://looknews.cc/*
 *://lqkweb.com/*
 *://lucidchart-diagrams-desktop.en.download.it/*
 *://lucidchart-diagrams-desktop.en.softonic.com/*
@@ -8210,7 +8207,6 @@
 *://m.pjtime.com/*
 *://m.qu99.com/*
 *://m.quanmama.com/*
-*://m.qzjlw.com.cn/*
 *://m.rufengso.net/*
 *://m.sina.com.hk/*
 *://m.sohu.com/*
@@ -8360,7 +8356,6 @@
 *://wikidiff.com/*
 *://windowsbulletin.com/*
 *://world.taobao.com/*
-*://wpsousuo.cn/*
 *://www.010xww.com/*
 *://www.0411ct.com/*
 *://www.0755qxhj.com/*
@@ -8584,7 +8579,6 @@
 *://www.kutombawewe.net/*
 *://www.kutu66.com/*
 *://www.lagou.com/lgeduarticle/*
-*://www.lansingip.com/*
 *://www.lightspeedtrucking.com/*
 *://www.linuxboy.net/*
 *://www.linuxfixes.com/*
