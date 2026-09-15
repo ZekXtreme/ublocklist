@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-09-14 02:48:34
-# Total count: 8845
+# Version: 2026-09-15 02:51:11
+# Total count: 8843
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -1362,7 +1362,6 @@
 *://*.apuestas21.buzz/*
 *://*.apyequan.com/*
 *://*.aqbbb.com/*
-*://*.aqmdjx.com/*
 *://*.aqtt.cc/*
 *://*.aquacool-gaffney.buzz/*
 *://*.ar3326k.cn/*
@@ -8587,7 +8586,6 @@
 *://www.lohine.com/*
 *://www.lovediscountvouchers.co.uk/*
 *://www.lunwentop.net/*
-*://www.lvyou5.net/*
 *://www.lxws.net/*
 *://www.lzbxgmjj.com/*
 *://www.macaodaily.com/*
