@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-09-21 02:45:15
-# Total count: 8843
+# Version: 2026-09-22 02:46:02
+# Total count: 8839
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -6499,7 +6499,6 @@
 *://*.toutiao.com/search?keyword=*
 *://*.toutiao.io/*
 *://*.touyanmo.com/*
-*://*.touyinghome.com/*
 *://*.toyif.cn/*
 *://*.toys007.com/*
 *://*.tpgimgm.cn/*
@@ -7759,7 +7758,6 @@
 *://*.zgjkshh.com/*
 *://*.zgkssjw.com/*
 *://*.zgky7.com/*
-*://*.zglangying.com/*
 *://*.zgouman.com/*
 *://*.zgregwu.cn/*
 *://*.zgserver.com/*
@@ -8350,7 +8348,6 @@
 *://weekly-geekly-es.imtqy.com/*
 *://wefan.baidu.com/*
 *://wemp.app/*
-*://who-called-de.com/*
 *://wikidiff.com/*
 *://windowsbulletin.com/*
 *://world.taobao.com/*
@@ -8664,7 +8661,6 @@
 *://www.shbjbwx.com/*
 *://www.shoudian.org/*
 *://www.shuoshuokong.com/*
-*://www.shuzhiduo.com/*
 *://www.shxmtech.com/*
 *://www.shxy888.com/*
 *://www.simpletense.com/*
