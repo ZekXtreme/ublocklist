@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-09-28 02:58:40
-# Total count: 8839
+# Version: 2026-09-29 03:38:38
+# Total count: 8835
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -2193,7 +2193,6 @@
 *://*.daewoohair.buzz/*
 *://*.dafb.cc/*
 *://*.dafn.cc/*
-*://*.dafuhua.com/*
 *://*.dafx.cc/*
 *://*.daimafans.com/*
 *://*.daimaqa.com/*
@@ -4570,7 +4569,6 @@
 *://*.mavupzk.cn/*
 *://*.maww.cc/*
 *://*.maximuum.com/*
-*://*.mb-intendance.com/*
 *://*.mbezdv.cn/*
 *://*.mbme-tr.buzz/*
 *://*.mcaren.com/*
@@ -6944,7 +6942,6 @@
 *://*.whjnrj.com/*
 *://*.whldl.com/*
 *://*.whm00f6.cn/*
-*://*.whoisua.com/*
 *://*.whoisvip.cn/*
 *://*.whpc.cc/*
 *://*.whrsjdwx.com/*
@@ -8617,7 +8614,6 @@
 *://www.padh.net/*
 *://www.paloma.cn/*
 *://www.pantianxia.com/*
-*://www.parichyimin.com/*
 *://www.pck777.com/*
 *://www.pconline.com.cn/3g/*
 *://www.pconline.com.cn/other_pic*
