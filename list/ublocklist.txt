@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-10-05 03:27:15
-# Total count: 8835
+# Version: 2026-10-06 04:15:37
+# Total count: 8826
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -717,7 +717,6 @@
 *://*.543dy.cn/*
 *://*.54496.cn/*
 *://*.54gsl.com/*
-*://*.54site.com/*
 *://*.55276.net/*
 *://*.55468z8.cn/*
 *://*.555.gd/*
@@ -3582,7 +3581,6 @@
 *://*.iclinking.com/*
 *://*.icnmall.com/*
 *://*.icode.best/*
-*://*.icp-bbs.com/*
 *://*.icplf.cn/*
 *://*.id0m3f.cn/*
 *://*.id528.com/*
@@ -6425,7 +6423,6 @@
 *://*.tingguqinapp.com/*
 *://*.tingmeiw.com/*
 *://*.tintsoft.com/*
-*://*.tipsandtricks.tech/*
 *://*.tistory.com/*
 *://*.titanapply.com/*
 *://*.tititi.cc/*
@@ -8035,7 +8032,6 @@
 *://book.jd.com/publish/Search?*
 *://brd2a.com/*
 *://briteming.blogspot.com/*
-*://bug200.com/*
 *://bynss.com/*
 *://c.lanmit.com/*
 *://cainiaojiaocheng.com/*
@@ -8149,7 +8145,6 @@
 *://itectec.com/*
 *://item.jd.com/*
 *://itigic.com/*
-*://jinan110.com/*
 *://js.wszjl.com/*
 *://jtuto.com/*
 *://jump2.bdimg.com/*
@@ -8368,7 +8363,6 @@
 *://www.360doc.com/*
 *://www.360kuai.com/*
 *://www.39qq.com/*
-*://www.3gsu.com/*
 *://www.3li.cc/*
 *://www.4561234.com/*
 *://www.4pee.com/*
@@ -8437,7 +8431,6 @@
 *://www.chhh.com/*
 *://www.chinawenwang.com/*
 *://www.cnblogs.com/sysin/*
-*://www.cnshhbs.com/*
 *://www.cocoachina.com/*
 *://www.codebaoku.com/*
 *://www.codegrepper.com/*
@@ -8466,7 +8459,6 @@
 *://www.czgeek.com/*
 *://www.da-quan.net/*
 *://www.daihema.com/*
-*://www.ddpei.com/*
 *://www.dealmecoupon.com/*
 *://www.dealscove.com/*
 *://www.debug8.com/*
@@ -8562,7 +8554,6 @@
 *://www.jd.com/*
 *://www.jiemengla.com/*
 *://www.jilaxzone.com/*
-*://www.jinan110.com/*
 *://www.jiyifa.com/*
 *://www.jmiaoyz106.com/*
 *://www.jsxbbyq.com/*
