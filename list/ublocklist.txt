@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-10-12 03:42:15
-# Total count: 8826
+# Version: 2026-10-13 04:54:49
+# Total count: 8823
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -448,7 +448,6 @@
 *://*.3299456.cn/*
 *://*.33104.cn/*
 *://*.332gd.cn/*
-*://*.33376.xyz/*
 *://*.3383927.cn/*
 *://*.33lc.org/*
 *://*.33spa.com/*
@@ -8425,7 +8424,6 @@
 *://www.carousell.com.hk/*
 *://www.cashbackbest.com/*
 *://www.cbedai.net/*
-*://www.cctsuzhou.cn/*
 *://www.chaoju.com/*
 *://www.chepinnet.com/*
 *://www.chhh.com/*
@@ -8727,7 +8725,6 @@
 *://www.xpj665577.com/*
 *://www.xsjphoto.com/*
 *://www.xspdf.com/*
-*://www.xtfeed.cn/*
 *://www.xyyhs.net/*
 *://www.xz7.com/*
 *://www.y5.hk/*
