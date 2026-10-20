@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-10-19 02:44:05
-# Total count: 8823
+# Version: 2026-10-20 02:55:14
+# Total count: 8819
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -418,7 +418,6 @@
 *://*.2q0df4z.cn/*
 *://*.2q1y09w.cn/*
 *://*.2qn7td3.cn/*
-*://*.2qun.net/*
 *://*.2renduobao.com/*
 *://*.2ry0oym.cn/*
 *://*.2tmfvwk.cn/*
@@ -449,7 +448,6 @@
 *://*.33104.cn/*
 *://*.332gd.cn/*
 *://*.3383927.cn/*
-*://*.33lc.org/*
 *://*.33spa.com/*
 *://*.33tr5f.cn/*
 *://*.3407001.com/*
@@ -5256,7 +5254,6 @@
 *://*.pintrist.com/*
 *://*.pinzuowang.com/*
 *://*.pipecraft.net/*
-*://*.piqiuda.com/*
 *://*.pitlochrygolfclub.buzz/*
 *://*.piwnb1x.cn/*
 *://*.pixelprivacy.com/*
@@ -8364,7 +8361,6 @@
 *://www.39qq.com/*
 *://www.3li.cc/*
 *://www.4561234.com/*
-*://www.4pee.com/*
 *://www.511477.com/*
 *://www.513210.com/*
 *://www.51dongshi.com/*
