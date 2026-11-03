@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-11-02 03:48:10
-# Total count: 8817
+# Version: 2026-11-03 04:52:00
+# Total count: 8813
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -5200,7 +5200,6 @@
 *://*.pin.it/*
 *://*.pinimg.com/**://lightrun.com/*
 *://*.pinkiyy.com/*
-*://*.pinkypink.org/*
 *://*.pinonplaza.buzz/*
 *://*.pinpaici.com/*
 *://*.pintech.net.cn/*
@@ -5960,7 +5959,6 @@
 *://*.shosjj.com/*
 *://*.shoubar.cn/*
 *://*.shoucangzx.com/*
-*://*.shoujide.com/*
 *://*.shoujifbb.com/*
 *://*.shoujishu.com/*
 *://*.shouldiremoveit.com/*
@@ -8003,7 +8001,6 @@
 *://ask.seowhy.com/*
 *://ask.zol.com.cn/*
 *://askcodez.com/*
-*://auditioneasterhelm.com/*
 *://awesomeopensource.com/*
 *://baijiahao.baidu.com/*
 *://baike.baidu.com/tashuo/*
@@ -8027,7 +8024,6 @@
 *://book.jd.com/publish/Search?*
 *://brd2a.com/*
 *://briteming.blogspot.com/*
-*://bynss.com/*
 *://c.lanmit.com/*
 *://cainiaojiaocheng.com/*
 *://call886.com/*
