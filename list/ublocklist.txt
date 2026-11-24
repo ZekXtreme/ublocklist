@@ -2,8 +2,8 @@
 # Title: ublocklist combined list
 # Homepage: https://github.com/zekxtreme/ublocklist
 # Description: My personal filters of ublocklist
-# Version: 2026-11-23 05:06:20
-# Total count: 8801
+# Version: 2026-11-24 07:52:51
+# Total count: 8799
 
 *://*.001553.cn/*
 *://*.003zuqiu.com/*
@@ -8336,7 +8336,6 @@
 *://www.21ic.com/*
 *://www.2265.com/*
 *://www.23cpc.com/*
-*://www.2616.com.cn/*
 *://www.295a.com/*
 *://www.329329.com/*
 *://www.32r.com/*
@@ -8596,7 +8595,6 @@
 *://www.promocodefriend.com/*
 *://www.promotionalcodes.io/*
 *://www.q578.com/*
-*://www.qcnsw.com/*
 *://www.qedev.com/*
 *://www.qianchusai.com/*
 *://www.qingtingip.com/*
